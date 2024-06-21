@@ -1,0 +1,89 @@
+version: "3.8"
+
+services:
+  mysql-upb-master:
+    image: mysql:8.0
+    container_name: mysql-upb-master
+    command: --server-id=1 --log-bin=mysql-bin --binlog-format=row
+    environment:
+      MYSQL_ROOT_PASSWORD: upbgeneraladmin
+      MYSQL_DATABASE: upb
+      MYSQL_USER: replication_user
+      MYSQL_PASSWORD: super_secure_replication_password
+    ports:
+      - "3310:3306"
+    networks:
+      - upbnetwork
+
+  mysql-lpz:
+    image: mysql:8.0
+    container_name: mysql-lpz
+    depends_on:
+      - mysql-upb-master
+    command: --server-id=2 --log-bin=mysql-bin --binlog-format=row
+    environment:
+      MYSQL_ROOT_PASSWORD: upblpzadmin
+      MYSQL_DATABASE: upb
+      MYSQL_USER: replication_user
+      MYSQL_PASSWORD: super_secure_replication_password
+    ports:
+      - "3307:3306"
+    networks:
+      - upbnetwork
+
+  mysql-cbba:
+    image: mysql:8.0
+    container_name: mysql-cbba
+    depends_on:
+      - mysql-upb-master
+    command: --server-id=3 --log-bin=mysql-bin --binlog-format=row
+    environment:
+      MYSQL_ROOT_PASSWORD: upbcbbaadmin
+      MYSQL_DATABASE: upb
+      MYSQL_USER: replication_user
+      MYSQL_PASSWORD: super_secure_replication_password
+    ports:
+      - "3308:3306"
+    networks:
+      - upbnetwork
+
+  mysql-scz:
+    image: mysql:8.0
+    container_name: mysql-scz
+    depends_on:
+      - mysql-upb-master
+    command: --server-id=4 --log-bin=mysql-bin --binlog-format=row
+    environment:
+      MYSQL_ROOT_PASSWORD: upbsczadmin
+      MYSQL_DATABASE: upb
+      MYSQL_USER: replication_user
+      MYSQL_PASSWORD: super_secure_replication_password
+    ports:
+      - "3309:3306"
+    networks:
+      - upbnetwork
+
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: rootpassword
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - upbnetwork
+
+volumes:
+  mysql_master_data:
+  mysql_lpz_data:
+  mysql_cbba_data:
+  mysql_scz_data:
+  mongo_data:
+
+networks:
+  upbnetwork:
+    driver: bridge
