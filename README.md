@@ -4,6 +4,11 @@
 
 [Cómo configurar una replicación maestro-esclavo de MySQL en Docker](https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a)
 
+Clonar el repositorio y ejecutar el siguiente comando:
+```bash
+docker-compose up -d
+```
+
 ### Para configurar el maestro
 
 ```bash
