@@ -2375,5 +2375,201 @@
       }
     ],
     "fecha": "2020-06-17"
+  },
+  {
+    "id": 51,
+    "nombre": "Torneo de Ajedrez",
+    "descripcion": "Competencia de ajedrez para estudiantes de todos los niveles.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Laura Rojas",
+        "id_est": 30
+      },
+      {
+        "nombre_est": "Isabel Vargas",
+        "id_est": 11
+      },
+      {
+        "nombre_est": "Marta Sanchez",
+        "id_est": 4
+      },
+      {
+        "nombre_est": "Carlos Ortega",
+        "id_est": 7
+      }
+    ],
+    "fecha": "2023-05-10"
+  },
+  {
+    "id": 52,
+    "nombre": "Caminata Ecológica",
+    "descripcion": "Excursión para conocer y preservar el medio ambiente.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Roberto Sanchez",
+        "id_est": 2
+      },
+      {
+        "nombre_est": "Andres Mendoza",
+        "id_est": 3
+      },
+      {
+        "nombre_est": "Juan Garcia",
+        "id_est": 6
+      },
+      {
+        "nombre_est": "Maria Mendoza",
+        "id_est": 5
+      }
+    ],
+    "fecha": "2023-06-15"
+  },
+  {
+    "id": 53,
+    "nombre": "Hackathon UPB",
+    "descripcion": "Maratón de programación para resolver problemas reales.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Ana Suarez",
+        "id_est": 16
+      },
+      {
+        "nombre_est": "Roberto Mendoza",
+        "id_est": 18
+      },
+      {
+        "nombre_est": "David Mendoza",
+        "id_est": 21
+      },
+      {
+        "nombre_est": "Marta Gonzalez",
+        "id_est": 9
+      }
+    ],
+    "fecha": "2022-11-20"
+  },
+  {
+    "id": 54,
+    "nombre": "Taller de Fotografía",
+    "descripcion": "Aprender técnicas básicas y avanzadas de fotografía.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Laura Ortega",
+        "id_est": 30
+      },
+      {
+        "nombre_est": "Roberto Fernandez",
+        "id_est": 43
+      },
+      {
+        "nombre_est": "Ana Navarro",
+        "id_est": 44
+      },
+      {
+        "nombre_est": "Lucia Sanchez",
+        "id_est": 14
+      }
+    ],
+    "fecha": "2021-08-25"
+  },
+  {
+    "id": 55,
+    "nombre": "Concurso de Pintura",
+    "descripcion": "Competencia artística para estudiantes con talento en pintura.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Jorge Morales",
+        "id_est": 1
+      },
+      {
+        "nombre_est": "Andres Morales",
+        "id_est": 12
+      },
+      {
+        "nombre_est": "Marta Perez",
+        "id_est": 8
+      },
+      {
+        "nombre_est": "Carmen Vargas",
+        "id_est": 15
+      }
+    ],
+    "fecha": "2021-12-10"
+  },
+  {
+    "id": 56,
+    "nombre": "Feria Gastronómica",
+    "descripcion": "Evento para degustar y promover la gastronomía local.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Carlos Ortega",
+        "id_est": 7
+      },
+      {
+        "nombre_est": "Marta Gonzalez",
+        "id_est": 9
+      },
+      {
+        "nombre_est": "Roberto Mendoza",
+        "id_est": 18
+      },
+      {
+        "nombre_est": "Andres Mendoza",
+        "id_est": 3
+      }
+    ],
+    "fecha": "2020-09-15"
+  },
+  {
+    "id": 57,
+    "nombre": "Seminario de Innovación",
+    "descripcion": "Conferencias y talleres sobre innovación tecnológica.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Maria Mendoza",
+        "id_est": 5
+      },
+      {
+        "nombre_est": "Juan Garcia",
+        "id_est": 6
+      },
+      {
+        "nombre_est": "Ana Suarez",
+        "id_est": 16
+      },
+      {
+        "nombre_est": "David Mendoza",
+        "id_est": 21
+      }
+    ],
+    "fecha": "2023-03-05"
   }
 ]
