@@ -1,0 +1,2575 @@
+[
+  {
+    "id": 1,
+    "nombre": "Grupo de Teatro",
+    "descripcion": "Un grupo que realiza obras de teatro.",
+    "estudiantes": [
+      {
+        "nombre_est": "Jorge Morales",
+        "id_est": 1
+      },
+      {
+        "nombre_est": "Marta Sanchez",
+        "id_est": 4
+      },
+      {
+        "nombre_est": "Carlos Ortega",
+        "id_est": 7
+      },
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Carlos Ortega",
+        "id_est": 13
+      },
+      {
+        "nombre_est": "Ana Suarez",
+        "id_est": 16
+      },
+      {
+        "nombre_est": "Roberto Perez",
+        "id_est": 19
+      },
+      {
+        "nombre_est": "Maria Suarez",
+        "id_est": 22
+      },
+      {
+        "nombre_est": "Miguel Suarez",
+        "id_est": 25
+      },
+      {
+        "nombre_est": "Maria Gonzalez",
+        "id_est": 28
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 2,
+    "nombre": "Club de Ciencias",
+    "descripcion": "Un club para explorar experimentos científicos.",
+    "estudiantes": [
+      {
+        "nombre_est": "Roberto Sanchez",
+        "id_est": 2
+      },
+      {
+        "nombre_est": "Maria Mendoza",
+        "id_est": 5
+      },
+      {
+        "nombre_est": "Marta Perez",
+        "id_est": 8
+      },
+      {
+        "nombre_est": "Isabel Vargas",
+        "id_est": 11
+      },
+      {
+        "nombre_est": "Lucia Sanchez",
+        "id_est": 14
+      },
+      {
+        "nombre_est": "Roberto Martinez",
+        "id_est": 17
+      },
+      {
+        "nombre_est": "Angela Castro",
+        "id_est": 20
+      },
+      {
+        "nombre_est": "Juan Rojas",
+        "id_est": 23
+      },
+      {
+        "nombre_est": "Pedro Fernandez",
+        "id_est": 26
+      },
+      {
+        "nombre_est": "Isabel Hernandez",
+        "id_est": 29
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 3,
+    "nombre": "Equipo de Fútbol",
+    "descripcion": "Un equipo que participa en torneos de fútbol.",
+    "estudiantes": [
+      {
+        "nombre_est": "Andres Mendoza",
+        "id_est": 3
+      },
+      {
+        "nombre_est": "Juan Garcia",
+        "id_est": 6
+      },
+      {
+        "nombre_est": "Marta Gonzalez",
+        "id_est": 9
+      },
+      {
+        "nombre_est": "Andres Morales",
+        "id_est": 12
+      },
+      {
+        "nombre_est": "Carmen Sanchez",
+        "id_est": 15
+      },
+      {
+        "nombre_est": "Roberto Mendoza",
+        "id_est": 18
+      },
+      {
+        "nombre_est": "David Mendoza",
+        "id_est": 21
+      },
+      {
+        "nombre_est": "Maria Navarro",
+        "id_est": 24
+      },
+      {
+        "nombre_est": "Pedro Ramirez",
+        "id_est": 27
+      },
+      {
+        "nombre_est": "Laura Ortega",
+        "id_est": 30
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 4,
+    "nombre": "Club de Literatura",
+    "descripcion": "Un club para los amantes de la lectura.",
+    "estudiantes": [
+      {
+        "nombre_est": "Elena Fernandez",
+        "id_est": 31
+      },
+      {
+        "nombre_est": "Jose Morales",
+        "id_est": 34
+      },
+      {
+        "nombre_est": "Jorge Morales",
+        "id_est": 37
+      },
+      {
+        "nombre_est": "David Rojas",
+        "id_est": 40
+      },
+      {
+        "nombre_est": "Roberto Fernandez",
+        "id_est": 43
+      },
+      {
+        "nombre_est": "Angela Castro",
+        "id_est": 46
+      },
+      {
+        "nombre_est": "Ana Vargas",
+        "id_est": 49
+      },
+      {
+        "nombre_est": "Maria Rodriguez",
+        "id_est": 52
+      },
+      {
+        "nombre_est": "Jorge Vargas",
+        "id_est": 55
+      },
+      {
+        "nombre_est": "Ana Martinez",
+        "id_est": 58
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 5,
+    "nombre": "Grupo de Danza",
+    "descripcion": "Un grupo que aprende y presenta diversas danzas.",
+    "estudiantes": [
+      {
+        "nombre_est": "Pedro Ortega",
+        "id_est": 32
+      },
+      {
+        "nombre_est": "Juan Perez",
+        "id_est": 35
+      },
+      {
+        "nombre_est": "David Morales",
+        "id_est": 38
+      },
+      {
+        "nombre_est": "Elena Vargas",
+        "id_est": 41
+      },
+      {
+        "nombre_est": "Ana Navarro",
+        "id_est": 44
+      },
+      {
+        "nombre_est": "Carmen Vargas",
+        "id_est": 47
+      },
+      {
+        "nombre_est": "Juan Morales",
+        "id_est": 50
+      },
+      {
+        "nombre_est": "Marta Castro",
+        "id_est": 53
+      },
+      {
+        "nombre_est": "Pedro Perez",
+        "id_est": 56
+      },
+      {
+        "nombre_est": "Carlos Rojas",
+        "id_est": 59
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 6,
+    "nombre": "Taller de Arte",
+    "descripcion": "Un taller para aprender diversas técnicas artísticas.",
+    "estudiantes": [
+      {
+        "nombre_est": "Laura Rojas",
+        "id_est": 33
+      },
+      {
+        "nombre_est": "Carlos Romero",
+        "id_est": 36
+      },
+      {
+        "nombre_est": "Lucia Romero",
+        "id_est": 39
+      },
+      {
+        "nombre_est": "Andres Ramirez",
+        "id_est": 42
+      },
+      {
+        "nombre_est": "Lucia Hernandez",
+        "id_est": 45
+      },
+      {
+        "nombre_est": "Maria Rodriguez",
+        "id_est": 48
+      },
+      {
+        "nombre_est": "Jose Lopez",
+        "id_est": 51
+      },
+      {
+        "nombre_est": "Elena Mendoza",
+        "id_est": 54
+      },
+      {
+        "nombre_est": "Laura Hernandez",
+        "id_est": 57
+      },
+      {
+        "nombre_est": "Miguel Sanchez",
+        "id_est": 60
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 7,
+    "nombre": "Club de Ajedrez",
+    "descripcion": "Un club para aprender y jugar ajedrez.",
+    "estudiantes": [
+      {
+        "nombre_est": "David Rodriguez",
+        "id_est": 61
+      },
+      {
+        "nombre_est": "Laura Navarro",
+        "id_est": 64
+      },
+      {
+        "nombre_est": "Ana Hernandez",
+        "id_est": 67
+      },
+      {
+        "nombre_est": "Roberto Ortega",
+        "id_est": 70
+      },
+      {
+        "nombre_est": "Roberto Suarez",
+        "id_est": 73
+      },
+      {
+        "nombre_est": "Jorge Garcia",
+        "id_est": 76
+      },
+      {
+        "nombre_est": "Pedro Suarez",
+        "id_est": 79
+      },
+      {
+        "nombre_est": "Miguel Garcia",
+        "id_est": 82
+      },
+      {
+        "nombre_est": "Maria Navarro",
+        "id_est": 85
+      },
+      {
+        "nombre_est": "Ana Vargas",
+        "id_est": 88
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 8,
+    "nombre": "Grupo de Debate",
+    "descripcion": "Un grupo para practicar habilidades de debate.",
+    "estudiantes": [
+      {
+        "nombre_est": "Jose Fernandez",
+        "id_est": 62
+      },
+      {
+        "nombre_est": "Marta Sanchez",
+        "id_est": 65
+      },
+      {
+        "nombre_est": "Ana Lopez",
+        "id_est": 68
+      },
+      {
+        "nombre_est": "Pedro Gonzalez",
+        "id_est": 71
+      },
+      {
+        "nombre_est": "Angela Navarro",
+        "id_est": 74
+      },
+      {
+        "nombre_est": "Luis Suarez",
+        "id_est": 77
+      },
+      {
+        "nombre_est": "Maria Romero",
+        "id_est": 80
+      },
+      {
+        "nombre_est": "Roberto Morales",
+        "id_est": 83
+      },
+      {
+        "nombre_est": "Miguel Rojas",
+        "id_est": 86
+      },
+      {
+        "nombre_est": "Juan Sanchez",
+        "id_est": 89
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 9,
+    "nombre": "Club de Fotografía",
+    "descripcion": "Un club para aprender y practicar fotografía.",
+    "estudiantes": [
+      {
+        "nombre_est": "Roberto Mendoza",
+        "id_est": 63
+      },
+      {
+        "nombre_est": "Jorge Navarro",
+        "id_est": 66
+      },
+      {
+        "nombre_est": "Carmen Ortega",
+        "id_est": 69
+      },
+      {
+        "nombre_est": "Jose Ramirez",
+        "id_est": 72
+      },
+      {
+        "nombre_est": "Carlos Fernandez",
+        "id_est": 75
+      },
+      {
+        "nombre_est": "David Rodriguez",
+        "id_est": 78
+      },
+      {
+        "nombre_est": "Lucia Fernandez",
+        "id_est": 81
+      },
+      {
+        "nombre_est": "Angela Morales",
+        "id_est": 84
+      },
+      {
+        "nombre_est": "Jorge Rodriguez",
+        "id_est": 87
+      },
+      {
+        "nombre_est": "Elena Sanchez",
+        "id_est": 90
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 10,
+    "nombre": "Taller de Música",
+    "descripcion": "Un taller para aprender a tocar instrumentos musicales.",
+    "estudiantes": [
+      {
+        "nombre_est": "Luis Martinez",
+        "id_est": 91
+      },
+      {
+        "nombre_est": "Ana Ortega",
+        "id_est": 94
+      },
+      {
+        "nombre_est": "Lucia Suarez",
+        "id_est": 97
+      },
+      {
+        "nombre_est": "Isabel Ramirez",
+        "id_est": 100
+      },
+      {
+        "nombre_est": "Lucia Perez",
+        "id_est": 103
+      },
+      {
+        "nombre_est": "Laura Reyes",
+        "id_est": 106
+      },
+      {
+        "nombre_est": "Jorge Garcia",
+        "id_est": 109
+      },
+      {
+        "nombre_est": "Angela Lopez",
+        "id_est": 112
+      },
+      {
+        "nombre_est": "Roberto Reyes",
+        "id_est": 115
+      },
+      {
+        "nombre_est": "Ana Garcia",
+        "id_est": 118
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+
+  {
+    "id": 11,
+    "nombre": "Spirit Week",
+    "descripcion": "Semana de actividades temáticas y concursos de disfraces.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 92
+      },
+      {
+        "nombre_est": "Laura Romero",
+        "id_est": 95
+      },
+      {
+        "nombre_est": "Roberto Suarez",
+        "id_est": 98
+      },
+      {
+        "nombre_est": "Jose Mendoza",
+        "id_est": 101
+      },
+      {
+        "nombre_est": "Carmen Rodriguez",
+        "id_est": 104
+      },
+      {
+        "nombre_est": "Andres Mendoza",
+        "id_est": 107
+      },
+      {
+        "nombre_est": "Ana Suarez",
+        "id_est": 110
+      },
+      {
+        "nombre_est": "Luis Ortega",
+        "id_est": 113
+      },
+      {
+        "nombre_est": "Miguel Hernandez",
+        "id_est": 116
+      },
+      {
+        "nombre_est": "David Rodriguez",
+        "id_est": 119
+      }
+    ],
+    "fecha": "2024-06-15"
+  },
+  {
+    "id": 12,
+    "nombre": "Semana de Disfraces",
+    "descripcion": "Eventos diarios con diferentes temas de disfraces y competencias.",
+    "estudiantes": [
+      {
+        "nombre_est": "Sofia Navarro",
+        "id_est": 93
+      },
+      {
+        "nombre_est": "Lucia Rodriguez",
+        "id_est": 96
+      },
+      {
+        "nombre_est": "Carmen Vargas",
+        "id_est": 99
+      },
+      {
+        "nombre_est": "Sofia Rojas",
+        "id_est": 102
+      },
+      {
+        "nombre_est": "Carlos Hernandez",
+        "id_est": 105
+      },
+      {
+        "nombre_est": "Roberto Rodriguez",
+        "id_est": 108
+      },
+      {
+        "nombre_est": "Sofia Castro",
+        "id_est": 111
+      },
+      {
+        "nombre_est": "Lucia Lopez",
+        "id_est": 114
+      },
+      {
+        "nombre_est": "Lucia Martinez",
+        "id_est": 117
+      },
+      {
+        "nombre_est": "Elena Mendoza",
+        "id_est": 120
+      }
+    ],
+    "fecha": "2024-06-20"
+  },
+  {
+    "id": 13,
+    "nombre": "Día D UPB Match",
+    "descripcion": "Torneo de competencias académicas y deportivas entre facultades.",
+    "estudiantes": [
+      {
+        "nombre_est": "Carlos Reyes",
+        "id_est": 121
+      },
+      {
+        "nombre_est": "Ana Mendoza",
+        "id_est": 124
+      },
+      {
+        "nombre_est": "Juan Rodriguez",
+        "id_est": 127
+      },
+      {
+        "nombre_est": "David Rodriguez",
+        "id_est": 130
+      },
+      {
+        "nombre_est": "Carlos Gonzalez",
+        "id_est": 133
+      },
+      {
+        "nombre_est": "Maria Navarro",
+        "id_est": 136
+      },
+      {
+        "nombre_est": "Andres Perez",
+        "id_est": 139
+      },
+      {
+        "nombre_est": "Andres Perez",
+        "id_est": 142
+      },
+      {
+        "nombre_est": "Sofia Mendoza",
+        "id_est": 145
+      },
+      {
+        "nombre_est": "Elena Rojas",
+        "id_est": 148
+      }
+    ],
+    "fecha": "2024-06-18"
+  },
+  {
+    "id": 14,
+    "nombre": "UPB Riders",
+    "descripcion": "Carreras de caballos divertidas organizadas por estudiantes.",
+    "estudiantes": [
+      {
+        "nombre_est": "Jorge Vargas",
+        "id_est": 122
+      },
+      {
+        "nombre_est": "Juan Vargas",
+        "id_est": 125
+      },
+      {
+        "nombre_est": "Elena Ortega",
+        "id_est": 128
+      },
+      {
+        "nombre_est": "Carmen Lopez",
+        "id_est": 131
+      },
+      {
+        "nombre_est": "Andres Rodriguez",
+        "id_est": 134
+      },
+      {
+        "nombre_est": "Luis Sanchez",
+        "id_est": 137
+      },
+      {
+        "nombre_est": "Angela Lopez",
+        "id_est": 140
+      },
+      {
+        "nombre_est": "Carlos Rojas",
+        "id_est": 143
+      },
+      {
+        "nombre_est": "Carmen Rodriguez",
+        "id_est": 146
+      },
+      {
+        "nombre_est": "Ana Suarez",
+        "id_est": 149
+      }
+    ],
+    "fecha": "2024-06-25"
+  },
+  {
+    "id": 15,
+    "nombre": "San Juan Fest",
+    "descripcion": "Festival para celebrar el cierre del semestre con comida y música.",
+    "estudiantes": [
+      {
+        "nombre_est": "Jorge Ramirez",
+        "id_est": 123
+      },
+      {
+        "nombre_est": "Isabel Fernandez",
+        "id_est": 126
+      },
+      {
+        "nombre_est": "Luis Reyes",
+        "id_est": 129
+      },
+      {
+        "nombre_est": "Sofia Romero",
+        "id_est": 132
+      },
+      {
+        "nombre_est": "Jorge Rojas",
+        "id_est": 135
+      },
+      {
+        "nombre_est": "Miguel Suarez",
+        "id_est": 138
+      },
+      {
+        "nombre_est": "Juan Rojas",
+        "id_est": 141
+      },
+      {
+        "nombre_est": "Jose Sanchez",
+        "id_est": 144
+      },
+      {
+        "nombre_est": "David Morales",
+        "id_est": 147
+      },
+      {
+        "nombre_est": "Elena Ortega",
+        "id_est": 150
+      }
+    ],
+    "fecha": "2024-06-22"
+  },
+  {
+    "id": 16,
+    "nombre": "Día del Deporte",
+    "descripcion": "Jornada de actividades deportivas y recreativas.",
+    "estudiantes": [
+      {
+        "nombre_est": "Luis Hernandez",
+        "id_est": 151
+      },
+      {
+        "nombre_est": "Marta Gonzalez",
+        "id_est": 154
+      },
+      {
+        "nombre_est": "Laura Perez",
+        "id_est": 157
+      },
+      {
+        "nombre_est": "Maria Mendoza",
+        "id_est": 160
+      },
+      {
+        "nombre_est": "Sofia Rojas",
+        "id_est": 163
+      },
+      {
+        "nombre_est": "Angela Vargas",
+        "id_est": 166
+      },
+      {
+        "nombre_est": "Roberto Martinez",
+        "id_est": 169
+      },
+      {
+        "nombre_est": "Carmen Martinez",
+        "id_est": 172
+      },
+      {
+        "nombre_est": "Juan Ramirez",
+        "id_est": 175
+      },
+      {
+        "nombre_est": "Jorge Lopez",
+        "id_est": 178
+      }
+    ],
+    "fecha": "2024-07-01"
+  },
+  {
+    "id": 17,
+    "nombre": "Semana Cultural",
+    "descripcion": "Exposiciones y actividades culturales para promover la diversidad.",
+    "estudiantes": [
+      {
+        "nombre_est": "Andres Morales",
+        "id_est": 152
+      },
+      {
+        "nombre_est": "Angela Suarez",
+        "id_est": 155
+      },
+      {
+        "nombre_est": "Miguel Romero",
+        "id_est": 158
+      },
+      {
+        "nombre_est": "Jorge Vargas",
+        "id_est": 161
+      },
+      {
+        "nombre_est": "Andres Fernandez",
+        "id_est": 164
+      },
+      {
+        "nombre_est": "Elena Garcia",
+        "id_est": 167
+      },
+      {
+        "nombre_est": "Isabel Martinez",
+        "id_est": 170
+      },
+      {
+        "nombre_est": "Laura Suarez",
+        "id_est": 173
+      },
+      {
+        "nombre_est": "Laura Reyes",
+        "id_est": 176
+      },
+      {
+        "nombre_est": "Carmen Vargas",
+        "id_est": 179
+      }
+    ],
+    "fecha": "2024-06-27"
+  },
+  {
+    "id": 18,
+    "nombre": "Evento y Charla de Ciencias",
+    "descripcion": "Presentación de proyectos científicos y tecnológicos realizados por profesionales externos para el conocimiento de los estudiantes.",
+    "estudiantes": [
+      {
+        "nombre_est": "Jorge Morales",
+        "id_est": 153
+      },
+      {
+        "nombre_est": "Carmen Vargas",
+        "id_est": 156
+      },
+      {
+        "nombre_est": "Isabel Lopez",
+        "id_est": 159
+      },
+      {
+        "nombre_est": "Isabel Fernandez",
+        "id_est": 162
+      },
+      {
+        "nombre_est": "Marta Ramirez",
+        "id_est": 165
+      },
+      {
+        "nombre_est": "Juan Suarez",
+        "id_est": 168
+      },
+      {
+        "nombre_est": "Laura Morales",
+        "id_est": 171
+      },
+      {
+        "nombre_est": "Sofia Hernandez",
+        "id_est": 174
+      },
+      {
+        "nombre_est": "Pedro Romero",
+        "id_est": 177
+      },
+      {
+        "nombre_est": "Luis Ortega",
+        "id_est": 180
+      }
+    ],
+    "fecha": "2024-06-30"
+  },
+  {
+    "id": 19,
+    "nombre": "Exposición de Arte",
+    "descripcion": "Exposición de obras de arte realizadas por los estudiantes en diversas disciplinas.",
+    "estudiantes": [
+      {
+        "nombre_est": "Luis Rojas",
+        "id_est": 181
+      },
+      {
+        "nombre_est": "Andres Hernandez",
+        "id_est": 184
+      },
+      {
+        "nombre_est": "Pedro Rojas",
+        "id_est": 187
+      },
+      {
+        "nombre_est": "Andres Suarez",
+        "id_est": 190
+      },
+      {
+        "nombre_est": "Luis Vargas",
+        "id_est": 193
+      },
+      {
+        "nombre_est": "Juan Reyes",
+        "id_est": 196
+      },
+      {
+        "nombre_est": "Andres Reyes",
+        "id_est": 199
+      },
+      {
+        "nombre_est": "Angela Navarro",
+        "id_est": 202
+      },
+      {
+        "nombre_est": "Roberto Morales",
+        "id_est": 205
+      },
+      {
+        "nombre_est": "Carmen Martinez",
+        "id_est": 208
+      }
+    ],
+    "fecha": "2024-07-05"
+  },
+  {
+    "id": 20,
+    "nombre": "Festival de Teatro",
+    "descripcion": "Presentación de obras de teatro y performances artísticas.",
+    "estudiantes": [
+      {
+        "nombre_est": "Andres Perez",
+        "id_est": 182
+      },
+      {
+        "nombre_est": "Isabel Rodriguez",
+        "id_est": 185
+      },
+      {
+        "nombre_est": "Elena Navarro",
+        "id_est": 188
+      },
+      {
+        "nombre_est": "Elena Garcia",
+        "id_est": 191
+      },
+      {
+        "nombre_est": "Elena Navarro",
+        "id_est": 194
+      },
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 197
+      },
+      {
+        "nombre_est": "Carmen Fernandez",
+        "id_est": 200
+      },
+      {
+        "nombre_est": "Ana Romero",
+        "id_est": 203
+      },
+      {
+        "nombre_est": "Elena Romero",
+        "id_est": 206
+      },
+      {
+        "nombre_est": "Maria Mendoza",
+        "id_est": 209
+      }
+    ],
+    "fecha": "2024-07-10"
+  },
+  {
+    "id": 21,
+    "nombre": "Charla Motivacional de Salud",
+    "descripcion": "Sesión de charlas motivacionales sobre salud y bienestar.",
+    "estudiantes": [
+      {
+        "nombre_est": "Carlos Rojas",
+        "id_est": 183
+      },
+      {
+        "nombre_est": "Maria Rodriguez",
+        "id_est": 186
+      },
+      {
+        "nombre_est": "Lucia Garcia",
+        "id_est": 189
+      },
+      {
+        "nombre_est": "Laura Ortega",
+        "id_est": 192
+      },
+      {
+        "nombre_est": "Maria Perez",
+        "id_est": 195
+      },
+      {
+        "nombre_est": "Andres Fernandez",
+        "id_est": 198
+      },
+      {
+        "nombre_est": "Luis Romero",
+        "id_est": 201
+      },
+      {
+        "nombre_est": "Sofia Castro",
+        "id_est": 204
+      },
+      {
+        "nombre_est": "Elena Gonzalez",
+        "id_est": 207
+      },
+      {
+        "nombre_est": "Ana Mendoza",
+        "id_est": 210
+      }
+    ],
+    "fecha": "2024-08-02"
+  },
+  {
+    "id": 22,
+    "nombre": "Simulación del Congreso de Naciones Unidas",
+    "descripcion": "Simulación de un congreso de Naciones Unidas con debates y resoluciones.",
+    "estudiantes": [
+      {
+        "nombre_est": "Juan Fernandez",
+        "id_est": 211
+      },
+      {
+        "nombre_est": "Andres Reyes",
+        "id_est": 214
+      },
+      {
+        "nombre_est": "Andres Ramirez",
+        "id_est": 217
+      },
+      {
+        "nombre_est": "Angela Fernandez",
+        "id_est": 220
+      },
+      {
+        "nombre_est": "Jorge Fernandez",
+        "id_est": 223
+      },
+      {
+        "nombre_est": "Carlos Ortega",
+        "id_est": 226
+      },
+      {
+        "nombre_est": "Lucia Perez",
+        "id_est": 229
+      },
+      {
+        "nombre_est": "Isabel Hernandez",
+        "id_est": 232
+      },
+      {
+        "nombre_est": "Jose Hernandez",
+        "id_est": 235
+      },
+      {
+        "nombre_est": "Isabel Perez",
+        "id_est": 238
+      }
+    ],
+    "fecha": "2024-08-09"
+  },
+  {
+    "id": 23,
+    "nombre": "English Talks",
+    "descripcion": "Sesiones de conversación en inglés para mejorar las habilidades lingüísticas.",
+    "estudiantes": [
+      {
+        "nombre_est": "Luis Vargas",
+        "id_est": 212
+      },
+      {
+        "nombre_est": "Lucia Suarez",
+        "id_est": 215
+      },
+      {
+        "nombre_est": "Luis Gonzalez",
+        "id_est": 218
+      },
+      {
+        "nombre_est": "Luis Fernandez",
+        "id_est": 221
+      },
+      {
+        "nombre_est": "Luis Castro",
+        "id_est": 224
+      },
+      {
+        "nombre_est": "Pedro Garcia",
+        "id_est": 227
+      },
+      {
+        "nombre_est": "Laura Vargas",
+        "id_est": 230
+      },
+      {
+        "nombre_est": "Angela Martinez",
+        "id_est": 233
+      },
+      {
+        "nombre_est": "Sofia Reyes",
+        "id_est": 236
+      },
+      {
+        "nombre_est": "Pedro Suarez",
+        "id_est": 239
+      }
+    ],
+    "fecha": "2024-08-15"
+  },
+  {
+    "id": 24,
+    "nombre": "Feria de Emprendimiento",
+    "descripcion": "Exposición de proyectos de emprendimiento desarrollados por estudiantes.",
+    "estudiantes": [
+      {
+        "nombre_est": "Luis Gonzalez",
+        "id_est": 213
+      },
+      {
+        "nombre_est": "Miguel Mendoza",
+        "id_est": 216
+      },
+      {
+        "nombre_est": "Carlos Rojas",
+        "id_est": 219
+      },
+      {
+        "nombre_est": "Sofia Vargas",
+        "id_est": 222
+      },
+      {
+        "nombre_est": "Isabel Reyes",
+        "id_est": 225
+      },
+      {
+        "nombre_est": "Roberto Martinez",
+        "id_est": 228
+      },
+      {
+        "nombre_est": "Lucia Ortega",
+        "id_est": 231
+      },
+      {
+        "nombre_est": "Juan Rojas",
+        "id_est": 234
+      },
+      {
+        "nombre_est": "Carlos Suarez",
+        "id_est": 237
+      },
+      {
+        "nombre_est": "Carlos Navarro",
+        "id_est": 240
+      }
+    ],
+    "fecha": "2024-08-20"
+  },
+  {
+    "id": 25,
+    "nombre": "Taller de Finanzas Personales",
+    "descripcion": "Taller sobre la gestión financiera personal y el ahorro.",
+    "estudiantes": [
+      {
+        "nombre_est": "Sofia Fernandez",
+        "id_est": 241
+      },
+      {
+        "nombre_est": "Carlos Garcia",
+        "id_est": 244
+      },
+      {
+        "nombre_est": "Elena Vargas",
+        "id_est": 247
+      },
+      {
+        "nombre_est": "Luis Vargas",
+        "id_est": 250
+      },
+      {
+        "nombre_est": "Juan Gonzalez",
+        "id_est": 253
+      },
+      {
+        "nombre_est": "Lucia Fernandez",
+        "id_est": 256
+      },
+      {
+        "nombre_est": "Carlos Rodriguez",
+        "id_est": 259
+      },
+      {
+        "nombre_est": "Miguel Lopez",
+        "id_est": 262
+      },
+      {
+        "nombre_est": "Laura Fernandez",
+        "id_est": 265
+      },
+      {
+        "nombre_est": "Roberto Lopez",
+        "id_est": 268
+      }
+    ],
+    "fecha": "2024-08-25"
+  },
+  {
+    "id": 26,
+    "nombre": "Taller de Robótica",
+    "descripcion": "Taller práctico de diseño y programación de robots.",
+    "estudiantes": [
+      {
+        "nombre_est": "Luis Romero",
+        "id_est": 242
+      },
+      {
+        "nombre_est": "Laura Rodriguez",
+        "id_est": 245
+      },
+      {
+        "nombre_est": "Laura Rojas",
+        "id_est": 248
+      },
+      {
+        "nombre_est": "Elena Garcia",
+        "id_est": 251
+      },
+      {
+        "nombre_est": "David Sanchez",
+        "id_est": 254
+      },
+      {
+        "nombre_est": "Isabel Rojas",
+        "id_est": 257
+      },
+      {
+        "nombre_est": "Lucia Rodriguez",
+        "id_est": 260
+      },
+      {
+        "nombre_est": "Jose Suarez",
+        "id_est": 263
+      },
+      {
+        "nombre_est": "Elena Lopez",
+        "id_est": 266
+      },
+      {
+        "nombre_est": "Jose Sanchez",
+        "id_est": 269
+      }
+    ],
+    "fecha": "2024-08-30"
+  },
+  {
+    "id": 27,
+    "nombre": "Charlas sobre Innovación",
+    "descripcion": "Ciclo de charlas sobre innovación y tecnología.",
+    "estudiantes": [
+      {
+        "nombre_est": "David Ramirez",
+        "id_est": 243
+      },
+      {
+        "nombre_est": "Sofia Garcia",
+        "id_est": 246
+      },
+      {
+        "nombre_est": "Laura Ramirez",
+        "id_est": 249
+      },
+      {
+        "nombre_est": "Lucia Sanchez",
+        "id_est": 252
+      },
+      {
+        "nombre_est": "Carmen Castro",
+        "id_est": 255
+      },
+      {
+        "nombre_est": "Juan Morales",
+        "id_est": 258
+      },
+      {
+        "nombre_est": "Luis Rojas",
+        "id_est": 261
+      },
+      {
+        "nombre_est": "Carlos Navarro",
+        "id_est": 264
+      },
+      {
+        "nombre_est": "David Perez",
+        "id_est": 267
+      },
+      {
+        "nombre_est": "Luis Mendoza",
+        "id_est": 270
+      }
+    ],
+    "fecha": "2024-09-05"
+  },
+  {
+    "id": 28,
+    "nombre": "Simulación Empresarial",
+    "descripcion": "Simulación de la gestión y operación de una empresa.",
+    "estudiantes": [
+      {
+        "nombre_est": "Marta Castro",
+        "id_est": 271
+      },
+      {
+        "nombre_est": "Jorge Garcia",
+        "id_est": 274
+      },
+      {
+        "nombre_est": "Lucia Suarez",
+        "id_est": 277
+      },
+      {
+        "nombre_est": "Roberto Morales",
+        "id_est": 280
+      },
+      {
+        "nombre_est": "David Rodriguez",
+        "id_est": 283
+      },
+      {
+        "nombre_est": "Maria Lopez",
+        "id_est": 286
+      },
+      {
+        "nombre_est": "Jose Martinez",
+        "id_est": 289
+      },
+      {
+        "nombre_est": "Angela Mendoza",
+        "id_est": 292
+      },
+      {
+        "nombre_est": "Elena Martinez",
+        "id_est": 295
+      },
+      {
+        "nombre_est": "Carmen Hernandez",
+        "id_est": 298
+      }
+    ],
+    "fecha": "2024-09-10"
+  },
+  {
+    "id": 29,
+    "nombre": "Feria de Ciencias",
+    "descripcion": "Presentación de proyectos científicos y tecnológicos realizados por estudiantes.",
+    "estudiantes": [
+      {
+        "nombre_est": "Laura Romero",
+        "id_est": 272
+      },
+      {
+        "nombre_est": "Pedro Gonzalez",
+        "id_est": 275
+      },
+      {
+        "nombre_est": "Ana Sanchez",
+        "id_est": 278
+      },
+      {
+        "nombre_est": "Miguel Rojas",
+        "id_est": 281
+      },
+      {
+        "nombre_est": "Luis Suarez",
+        "id_est": 284
+      },
+      {
+        "nombre_est": "Maria Vargas",
+        "id_est": 287
+      },
+      {
+        "nombre_est": "David Perez",
+        "id_est": 290
+      },
+      {
+        "nombre_est": "Carlos Ortiz",
+        "id_est": 293
+      },
+      {
+        "nombre_est": "Elena Rojas",
+        "id_est": 296
+      },
+      {
+        "nombre_est": "Roberto Fernandez",
+        "id_est": 299
+      }
+    ],
+    "fecha": "2024-09-15"
+  },
+  {
+    "id": 30,
+    "nombre": "Concurso de Innovación",
+    "descripcion": "Competencia entre equipos para presentar ideas innovadoras y proyectos tecnológicos.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Ortiz",
+        "id_est": 273
+      },
+      {
+        "nombre_est": "Ana Fernandez",
+        "id_est": 276
+      },
+      {
+        "nombre_est": "Carlos Martinez",
+        "id_est": 279
+      },
+      {
+        "nombre_est": "Laura Suarez",
+        "id_est": 282
+      },
+      {
+        "nombre_est": "Jose Hernandez",
+        "id_est": 285
+      },
+      {
+        "nombre_est": "Sofia Rodriguez",
+        "id_est": 288
+      },
+      {
+        "nombre_est": "Juan Garcia",
+        "id_est": 291
+      },
+      {
+        "nombre_est": "Luis Perez",
+        "id_est": 294
+      },
+      {
+        "nombre_est": "Angela Lopez",
+        "id_est": 297
+      },
+      {
+        "nombre_est": "David Sanchez",
+        "id_est": 300
+      }
+    ],
+    "fecha": "2024-09-20"
+  },
+  {
+    "id": 31,
+    "nombre": "Excursión a Salar de Uyuni",
+    "descripcion": "Viaje a uno de los mayores desiertos de sal y un destino turístico icónico en Bolivia.",
+    "estudiantes": [
+      {
+        "nombre_est": "Carmen Fernandez",
+        "id_est": 301
+      },
+      {
+        "nombre_est": "Maria Rodriguez",
+        "id_est": 304
+      },
+      {
+        "nombre_est": "Marta Garcia",
+        "id_est": 307
+      },
+      {
+        "nombre_est": "Maria Morales",
+        "id_est": 310
+      },
+      {
+        "nombre_est": "Laura Castro",
+        "id_est": 313
+      },
+      {
+        "nombre_est": "Roberto Garcia",
+        "id_est": 316
+      },
+      {
+        "nombre_est": "Sofia Mendoza",
+        "id_est": 319
+      },
+      {
+        "nombre_est": "Isabel Suarez",
+        "id_est": 322
+      },
+      {
+        "nombre_est": "Juan Navarro",
+        "id_est": 325
+      },
+      {
+        "nombre_est": "Carmen Lopez",
+        "id_est": 328
+      }
+    ],
+    "fecha": "2019-08-15"
+  },
+  {
+    "id": 32,
+    "nombre": "Visita a Tiwanaku",
+    "descripcion": "Exploración de las ruinas arqueológicas de Tiwanaku, un importante sitio de la civilización precolombina.",
+    "estudiantes": [
+      {
+        "nombre_est": "Lucia Lopez",
+        "id_est": 302
+      },
+      {
+        "nombre_est": "Luis Romero",
+        "id_est": 305
+      },
+      {
+        "nombre_est": "Angela Ramirez",
+        "id_est": 308
+      },
+      {
+        "nombre_est": "Jose Rodriguez",
+        "id_est": 311
+      },
+      {
+        "nombre_est": "Laura Morales",
+        "id_est": 314
+      },
+      {
+        "nombre_est": "Jorge Rojas",
+        "id_est": 317
+      },
+      {
+        "nombre_est": "Jose Rojas",
+        "id_est": 320
+      },
+      {
+        "nombre_est": "Lucia Suarez",
+        "id_est": 323
+      },
+      {
+        "nombre_est": "Laura Hernandez",
+        "id_est": 326
+      },
+      {
+        "nombre_est": "Juan Rodriguez",
+        "id_est": 329
+      }
+    ],
+    "fecha": "2020-03-22"
+  },
+  {
+    "id": 33,
+    "nombre": "Aventura en la Selva Amazónica",
+    "descripcion": "Excursión en la selva amazónica boliviana, explorando su rica biodiversidad y cultura.",
+    "estudiantes": [
+      {
+        "nombre_est": "Carmen Lopez",
+        "id_est": 303
+      },
+      {
+        "nombre_est": "Carlos Navarro",
+        "id_est": 306
+      },
+      {
+        "nombre_est": "Juan Gonzalez",
+        "id_est": 309
+      },
+      {
+        "nombre_est": "Lucia Navarro",
+        "id_est": 312
+      },
+      {
+        "nombre_est": "Maria Gonzalez",
+        "id_est": 315
+      },
+      {
+        "nombre_est": "Angela Suarez",
+        "id_est": 318
+      },
+      {
+        "nombre_est": "Ana Ramirez",
+        "id_est": 321
+      },
+      {
+        "nombre_est": "Miguel Lopez",
+        "id_est": 324
+      },
+      {
+        "nombre_est": "Marta Romero",
+        "id_est": 327
+      },
+      {
+        "nombre_est": "Elena Mendoza",
+        "id_est": 330
+      }
+    ],
+    "fecha": "2018-11-10"
+  },
+  {
+    "id": 34,
+    "nombre": "Tour por el Lago Titicaca",
+    "descripcion": "Visita al lago navegable más alto del mundo y sus islas.",
+    "estudiantes": [
+      {
+        "nombre_est": "Andres Lopez",
+        "id_est": 331
+      },
+      {
+        "nombre_est": "Isabel Ramirez",
+        "id_est": 334
+      },
+      {
+        "nombre_est": "Roberto Fernandez",
+        "id_est": 337
+      },
+      {
+        "nombre_est": "Marta Garcia",
+        "id_est": 340
+      },
+      {
+        "nombre_est": "Elena Perez",
+        "id_est": 343
+      },
+      {
+        "nombre_est": "Isabel Hernandez",
+        "id_est": 346
+      },
+      {
+        "nombre_est": "Sofia Martinez",
+        "id_est": 349
+      },
+      {
+        "nombre_est": "Sofia Gonzalez",
+        "id_est": 352
+      },
+      {
+        "nombre_est": "Ana Gonzalez",
+        "id_est": 355
+      },
+      {
+        "nombre_est": "Isabel Reyes",
+        "id_est": 358
+      }
+    ],
+    "fecha": "2021-06-05"
+  },
+  {
+    "id": 35,
+    "nombre": "Excursión al Parque Nacional Madidi",
+    "descripcion": "Exploración de uno de los parques nacionales más biodiversos del mundo.",
+    "estudiantes": [
+      {
+        "nombre_est": "Elena Rodriguez",
+        "id_est": 332
+      },
+      {
+        "nombre_est": "Jorge Vargas",
+        "id_est": 335
+      },
+      {
+        "nombre_est": "Carlos Rojas",
+        "id_est": 338
+      },
+      {
+        "nombre_est": "Isabel Martinez",
+        "id_est": 341
+      },
+      {
+        "nombre_est": "Ana Martinez",
+        "id_est": 344
+      },
+      {
+        "nombre_est": "David Rodriguez",
+        "id_est": 347
+      },
+      {
+        "nombre_est": "David Morales",
+        "id_est": 350
+      },
+      {
+        "nombre_est": "Elena Garcia",
+        "id_est": 353
+      },
+      {
+        "nombre_est": "Sofia Sanchez",
+        "id_est": 356
+      },
+      {
+        "nombre_est": "Angela Gonzalez",
+        "id_est": 359
+      }
+    ],
+    "fecha": "2022-01-18"
+  },
+  {
+    "id": 36,
+    "nombre": "Visita a Potosí y las minas del Cerro Rico",
+    "descripcion": "Tour histórico y cultural por la ciudad de Potosí y sus famosas minas de plata.",
+    "estudiantes": [
+      {
+        "nombre_est": "Isabel Rojas",
+        "id_est": 333
+      },
+      {
+        "nombre_est": "Jorge Martinez",
+        "id_est": 336
+      },
+      {
+        "nombre_est": "Marta Vargas",
+        "id_est": 339
+      },
+      {
+        "nombre_est": "Angela Rodriguez",
+        "id_est": 342
+      },
+      {
+        "nombre_est": "Luis Navarro",
+        "id_est": 345
+      },
+      {
+        "nombre_est": "Jose Castro",
+        "id_est": 348
+      },
+      {
+        "nombre_est": "Elena Lopez",
+        "id_est": 351
+      },
+      {
+        "nombre_est": "David Fernandez",
+        "id_est": 354
+      },
+      {
+        "nombre_est": "Miguel Mendoza",
+        "id_est": 357
+      },
+      {
+        "nombre_est": "Lucia Perez",
+        "id_est": 360
+      }
+    ],
+    "fecha": "2019-07-25"
+  },
+  {
+    "id": 37,
+    "nombre": "Exploración de la Ruta del Che",
+    "descripcion": "Viaje histórico siguiendo los pasos de Che Guevara en Bolivia.",
+    "estudiantes": [
+      {
+        "nombre_est": "Lucia Garcia",
+        "id_est": 361
+      },
+      {
+        "nombre_est": "Ana Vargas",
+        "id_est": 364
+      },
+      {
+        "nombre_est": "Carlos Lopez",
+        "id_est": 367
+      },
+      {
+        "nombre_est": "Ana Perez",
+        "id_est": 370
+      },
+      {
+        "nombre_est": "Angela Lopez",
+        "id_est": 373
+      },
+      {
+        "nombre_est": "Sofia Martinez",
+        "id_est": 376
+      },
+      {
+        "nombre_est": "Luis Sanchez",
+        "id_est": 379
+      },
+      {
+        "nombre_est": "Ana Romero",
+        "id_est": 382
+      },
+      {
+        "nombre_est": "Luis Fernandez",
+        "id_est": 385
+      },
+      {
+        "nombre_est": "Carmen Garcia",
+        "id_est": 388
+      }
+    ],
+    "fecha": "2020-10-14"
+  },
+  {
+    "id": 38,
+    "nombre": "Tour por Sucre, la capital constitucional",
+    "descripcion": "Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",
+    "estudiantes": [
+      {
+        "nombre_est": "Carlos Martinez",
+        "id_est": 362
+      },
+      {
+        "nombre_est": "Carmen Morales",
+        "id_est": 365
+      },
+      {
+        "nombre_est": "Laura Navarro",
+        "id_est": 368
+      },
+      {
+        "nombre_est": "Laura Castro",
+        "id_est": 371
+      },
+      {
+        "nombre_est": "Angela Hernandez",
+        "id_est": 374
+      },
+      {
+        "nombre_est": "Isabel Rodriguez",
+        "id_est": 377
+      },
+      {
+        "nombre_est": "Miguel Garcia",
+        "id_est": 380
+      },
+      {
+        "nombre_est": "Jorge Martinez",
+        "id_est": 383
+      },
+      {
+        "nombre_est": "Laura Morales",
+        "id_est": 386
+      },
+      {
+        "nombre_est": "Angela Ramirez",
+        "id_est": 389
+      }
+    ],
+    "fecha": "2021-12-30"
+  },
+  {
+    "id": 39,
+    "nombre": "Excursión a las Misiones Jesuíticas de Chiquitos",
+    "descripcion": "Exploración de las misiones jesuíticas, declaradas Patrimonio de la Humanidad.",
+    "estudiantes": [
+      {
+        "nombre_est": "Ana Romero",
+        "id_est": 363
+      },
+      {
+        "nombre_est": "Luis Romero",
+        "id_est": 366
+      },
+      {
+        "nombre_est": "Jorge Perez",
+        "id_est": 369
+      },
+      {
+        "nombre_est": "Laura Rojas",
+        "id_est": 372
+      },
+      {
+        "nombre_est": "Juan Mendoza",
+        "id_est": 375
+      },
+      {
+        "nombre_est": "Lucia Gonzalez",
+        "id_est": 378
+      },
+      {
+        "nombre_est": "Maria Suarez",
+        "id_est": 381
+      },
+      {
+        "nombre_est": "Jose Romero",
+        "id_est": 384
+      },
+      {
+        "nombre_est": "Isabel Martinez",
+        "id_est": 387
+      },
+      {
+        "nombre_est": "Lucia Ortega",
+        "id_est": 390
+      }
+    ],
+    "fecha": "2023-05-07"
+  },
+  {
+    "id": 40,
+    "nombre": "Visita al Parque Nacional Noel Kempff Mercado",
+    "descripcion": "Excursión al parque nacional conocido por sus impresionantes paisajes y biodiversidad.",
+    "estudiantes": [
+      {
+        "nombre_est": "Andres Rodriguez",
+        "id_est": 391
+      },
+      {
+        "nombre_est": "Elena Sanchez",
+        "id_est": 394
+      },
+      {
+        "nombre_est": "David Perez",
+        "id_est": 397
+      },
+      {
+        "nombre_est": "Laura Garcia",
+        "id_est": 400
+      },
+      {
+        "nombre_est": "Jose Lopez",
+        "id_est": 403
+      },
+      {
+        "nombre_est": "Miguel Sanchez",
+        "id_est": 406
+      },
+      {
+        "nombre_est": "Roberto Lopez",
+        "id_est": 409
+      },
+      {
+        "nombre_est": "Ana Hernandez",
+        "id_est": 412
+      },
+      {
+        "nombre_est": "David Ortega",
+        "id_est": 415
+      },
+      {
+        "nombre_est": "Lucia Reyes",
+        "id_est": 418
+      }
+    ],
+    "fecha": "2022-08-23"
+  },
+  {
+    "id": 41,
+    "nombre": "Feria de Empresas y Pasantías",
+    "descripcion": "Evento anual para conectar estudiantes con oportunidades de pasantías y empleos.",
+    "estudiantes": [
+      {
+        "nombre_est": "Maria Lopez",
+        "id_est": 392
+      },
+      {
+        "nombre_est": "Carlos Garcia",
+        "id_est": 395
+      },
+      {
+        "nombre_est": "Andres Fernandez",
+        "id_est": 398
+      },
+      {
+        "nombre_est": "Miguel Mendoza",
+        "id_est": 401
+      },
+      {
+        "nombre_est": "Isabel Gonzalez",
+        "id_est": 404
+      },
+      {
+        "nombre_est": "Isabel Suarez",
+        "id_est": 407
+      },
+      {
+        "nombre_est": "Miguel Vargas",
+        "id_est": 410
+      },
+      {
+        "nombre_est": "Angela Martinez",
+        "id_est": 413
+      },
+      {
+        "nombre_est": "Carmen Hernandez",
+        "id_est": 416
+      },
+      {
+        "nombre_est": "Marta Hernandez",
+        "id_est": 419
+      }
+    ],
+    "fecha": "2023-03-15"
+  },
+  {
+    "id": 42,
+    "nombre": "Feria de Automóviles",
+    "descripcion": "Exposición de los últimos modelos de automóviles y tecnología automotriz.",
+    "estudiantes": [
+      {
+        "nombre_est": "Andres Hernandez",
+        "id_est": 393
+      },
+      {
+        "nombre_est": "Sofia Rodriguez",
+        "id_est": 396
+      },
+      {
+        "nombre_est": "Miguel Suarez",
+        "id_est": 399
+      },
+      {
+        "nombre_est": "Carmen Sanchez",
+        "id_est": 402
+      },
+      {
+        "nombre_est": "Elena Garcia",
+        "id_est": 405
+      },
+      {
+        "nombre_est": "Isabel Morales",
+        "id_est": 408
+      },
+      {
+        "nombre_est": "Ana Mendoza",
+        "id_est": 411
+      },
+      {
+        "nombre_est": "Roberto Perez",
+        "id_est": 414
+      },
+      {
+        "nombre_est": "Lucia Martinez",
+        "id_est": 417
+      },
+      {
+        "nombre_est": "Ana Ortega",
+        "id_est": 420
+      }
+    ],
+    "fecha": "2024-07-10"
+  },
+  {
+    "id": 43,
+    "nombre": "UPB Merge - Mentores y Aprendices",
+    "descripcion": "Programa de mentoría para conectar a estudiantes nuevos con estudiantes avanzados.",
+    "estudiantes": [
+      {
+        "nombre_est": "Pedro Mendoza",
+        "id_est": 421
+      },
+      {
+        "nombre_est": "Sofia Lopez",
+        "id_est": 424
+      },
+      {
+        "nombre_est": "Luis Fernandez",
+        "id_est": 427
+      },
+      {
+        "nombre_est": "Sofia Fernandez",
+        "id_est": 430
+      },
+      {
+        "nombre_est": "Roberto Suarez",
+        "id_est": 433
+      },
+      {
+        "nombre_est": "Andres Rodriguez",
+        "id_est": 436
+      },
+      {
+        "nombre_est": "Sofia Lopez",
+        "id_est": 439
+      },
+      {
+        "nombre_est": "Lucia Fernandez",
+        "id_est": 442
+      },
+      {
+        "nombre_est": "Juan Morales",
+        "id_est": 445
+      },
+      {
+        "nombre_est": "Andres Romero",
+        "id_est": 448
+      }
+    ],
+    "fecha": "2022-09-20"
+  },
+  {
+    "id": 44,
+    "nombre": "UPB Match - Competencias de Ping Pong",
+    "descripcion": "Torneo de ping pong abierto a todos los estudiantes.",
+    "estudiantes": [
+      {
+        "nombre_est": "Pedro Castro",
+        "id_est": 422
+      },
+      {
+        "nombre_est": "Laura Gonzalez",
+        "id_est": 425
+      },
+      {
+        "nombre_est": "Lucia Romero",
+        "id_est": 428
+      },
+      {
+        "nombre_est": "Sofia Morales",
+        "id_est": 431
+      },
+      {
+        "nombre_est": "Carlos Romero",
+        "id_est": 434
+      },
+      {
+        "nombre_est": "Carlos Fernandez",
+        "id_est": 437
+      },
+      {
+        "nombre_est": "Luis Martinez",
+        "id_est": 440
+      },
+      {
+        "nombre_est": "Ana Perez",
+        "id_est": 443
+      },
+      {
+        "nombre_est": "Elena Lopez",
+        "id_est": 446
+      },
+      {
+        "nombre_est": "Angela Reyes",
+        "id_est": 449
+      }
+    ],
+    "fecha": "2021-11-05"
+  },
+  {
+    "id": 45,
+    "nombre": "UPB Match - Competencias de Básquetbol",
+    "descripcion": "Torneo de básquetbol entre equipos de estudiantes.",
+    "estudiantes": [
+      {
+        "nombre_est": "Jose Garcia",
+        "id_est": 423
+      },
+      {
+        "nombre_est": "Maria Rojas",
+        "id_est": 426
+      },
+      {
+        "nombre_est": "Luis Rodriguez",
+        "id_est": 429
+      },
+      {
+        "nombre_est": "Maria Martinez",
+        "id_est": 432
+      },
+      {
+        "nombre_est": "Carlos Fernandez",
+        "id_est": 435
+      },
+      {
+        "nombre_est": "Andres Gonzalez",
+        "id_est": 438
+      },
+      {
+        "nombre_est": "Luis Gonzalez",
+        "id_est": 441
+      },
+      {
+        "nombre_est": "Marta Hernandez",
+        "id_est": 444
+      },
+      {
+        "nombre_est": "Lucia Navarro",
+        "id_est": 447
+      },
+      {
+        "nombre_est": "Isabel Romero",
+        "id_est": 450
+      }
+    ],
+    "fecha": "2020-06-15"
+  },
+  {
+    "id": 46,
+    "nombre": "UPB Match - Competencias de Voleibol",
+    "descripcion": "Torneo de voleibol entre equipos de estudiantes.",
+    "estudiantes": [
+      {
+        "nombre_est": "Juan Navarro",
+        "id_est": 451
+      },
+      {
+        "nombre_est": "Jorge Martinez",
+        "id_est": 454
+      },
+      {
+        "nombre_est": "Lucia Castro",
+        "id_est": 457
+      },
+      {
+        "nombre_est": "Andres Castro",
+        "id_est": 460
+      },
+      {
+        "nombre_est": "Maria Martinez",
+        "id_est": 463
+      },
+      {
+        "nombre_est": "Marta Reyes",
+        "id_est": 466
+      },
+      {
+        "nombre_est": "Lucia Rodriguez",
+        "id_est": 469
+      },
+      {
+        "nombre_est": "Sofia Hernandez",
+        "id_est": 472
+      },
+      {
+        "nombre_est": "Isabel Sanchez",
+        "id_est": 475
+      },
+      {
+        "nombre_est": "Jose Ortega",
+        "id_est": 478
+      }
+    ],
+    "fecha": "2019-04-25"
+  },
+  {
+    "id": 47,
+    "nombre": "Festival Folklórico",
+    "descripcion": "Celebración de las tradiciones y danzas folklóricas bolivianas.",
+    "estudiantes": [
+      {
+        "nombre_est": "Marta Ortega",
+        "id_est": 452
+      },
+      {
+        "nombre_est": "Luis Vargas",
+        "id_est": 455
+      },
+      {
+        "nombre_est": "Jose Sanchez",
+        "id_est": 458
+      },
+      {
+        "nombre_est": "Elena Rojas",
+        "id_est": 461
+      },
+      {
+        "nombre_est": "Marta Ramirez",
+        "id_est": 464
+      },
+      {
+        "nombre_est": "Isabel Rojas",
+        "id_est": 467
+      },
+      {
+        "nombre_est": "Miguel Romero",
+        "id_est": 470
+      },
+      {
+        "nombre_est": "Angela Reyes",
+        "id_est": 473
+      },
+      {
+        "nombre_est": "Miguel Romero",
+        "id_est": 476
+      },
+      {
+        "nombre_est": "Elena Garcia",
+        "id_est": 479
+      }
+    ],
+    "fecha": "2022-10-12"
+  },
+  {
+    "id": 48,
+    "nombre": "Festival de San Valentín",
+    "descripcion": "Evento para celebrar el día de San Valentín con actividades y juegos.",
+    "estudiantes": [
+      {
+        "nombre_est": "Laura Navarro",
+        "id_est": 453
+      },
+      {
+        "nombre_est": "Carmen Perez",
+        "id_est": 456
+      },
+      {
+        "nombre_est": "Carmen Navarro",
+        "id_est": 459
+      },
+      {
+        "nombre_est": "David Sanchez",
+        "id_est": 462
+      },
+      {
+        "nombre_est": "Sofia Garcia",
+        "id_est": 465
+      },
+      {
+        "nombre_est": "Jose Morales",
+        "id_est": 468
+      },
+      {
+        "nombre_est": "Juan Rodriguez",
+        "id_est": 471
+      },
+      {
+        "nombre_est": "Pedro Fernandez",
+        "id_est": 474
+      },
+      {
+        "nombre_est": "Carmen Reyes",
+        "id_est": 477
+      },
+      {
+        "nombre_est": "Roberto Martinez",
+        "id_est": 480
+      }
+    ],
+    "fecha": "2023-02-14"
+  },
+  {
+    "id": 49,
+    "nombre": "Festival del Día de la Madre",
+    "descripcion": "Celebración especial para honrar a las madres.",
+    "estudiantes": [
+      {
+        "nombre_est": "Luis Perez",
+        "id_est": 481
+      },
+      {
+        "nombre_est": "Marta Lopez",
+        "id_est": 484
+      },
+      {
+        "nombre_est": "Ana Rojas",
+        "id_est": 487
+      },
+      {
+        "nombre_est": "David Perez",
+        "id_est": 490
+      },
+      {
+        "nombre_est": "Sofia Reyes",
+        "id_est": 493
+      },
+      {
+        "nombre_est": "David Mendoza",
+        "id_est": 496
+      },
+      {
+        "nombre_est": "Maria Ramirez",
+        "id_est": 499
+      }
+    ],
+    "fecha": "2021-05-27"
+  },
+  {
+    "id": 50,
+    "nombre": "Festival del Día del Padre",
+    "descripcion": "Celebración especial para honrar a los padres.",
+    "estudiantes": [
+      {
+        "nombre_est": "Maria Rodriguez",
+        "id_est": 482
+      },
+      {
+        "nombre_est": "Ana Navarro",
+        "id_est": 485
+      },
+      {
+        "nombre_est": "Pedro Mendoza",
+        "id_est": 488
+      },
+      {
+        "nombre_est": "Elena Garcia",
+        "id_est": 491
+      },
+      {
+        "nombre_est": "Ana Gonzalez",
+        "id_est": 494
+      },
+      {
+        "nombre_est": "Ana Castro",
+        "id_est": 497
+      },
+      {
+        "nombre_est": "David Perez",
+        "id_est": 500
+      }
+    ],
+    "fecha": "2020-06-17"
+  },
+  {
+    "id": 51,
+    "nombre": "Torneo de Ajedrez",
+    "descripcion": "Competencia de ajedrez para estudiantes de todos los niveles.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Laura Rojas",
+        "id_est": 30
+      },
+      {
+        "nombre_est": "Isabel Vargas",
+        "id_est": 11
+      },
+      {
+        "nombre_est": "Marta Sanchez",
+        "id_est": 4
+      },
+      {
+        "nombre_est": "Carlos Ortega",
+        "id_est": 7
+      }
+    ],
+    "fecha": "2023-05-10"
+  },
+  {
+    "id": 52,
+    "nombre": "Caminata Ecológica",
+    "descripcion": "Excursión para conocer y preservar el medio ambiente.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Roberto Sanchez",
+        "id_est": 2
+      },
+      {
+        "nombre_est": "Andres Mendoza",
+        "id_est": 3
+      },
+      {
+        "nombre_est": "Juan Garcia",
+        "id_est": 6
+      },
+      {
+        "nombre_est": "Maria Mendoza",
+        "id_est": 5
+      }
+    ],
+    "fecha": "2023-06-15"
+  },
+  {
+    "id": 53,
+    "nombre": "Hackathon UPB",
+    "descripcion": "Maratón de programación para resolver problemas reales.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Ana Suarez",
+        "id_est": 16
+      },
+      {
+        "nombre_est": "Roberto Mendoza",
+        "id_est": 18
+      },
+      {
+        "nombre_est": "David Mendoza",
+        "id_est": 21
+      },
+      {
+        "nombre_est": "Marta Gonzalez",
+        "id_est": 9
+      }
+    ],
+    "fecha": "2022-11-20"
+  },
+  {
+    "id": 54,
+    "nombre": "Taller de Fotografía",
+    "descripcion": "Aprender técnicas básicas y avanzadas de fotografía.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Laura Ortega",
+        "id_est": 30
+      },
+      {
+        "nombre_est": "Roberto Fernandez",
+        "id_est": 43
+      },
+      {
+        "nombre_est": "Ana Navarro",
+        "id_est": 44
+      },
+      {
+        "nombre_est": "Lucia Sanchez",
+        "id_est": 14
+      }
+    ],
+    "fecha": "2021-08-25"
+  },
+  {
+    "id": 55,
+    "nombre": "Concurso de Pintura",
+    "descripcion": "Competencia artística para estudiantes con talento en pintura.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Jorge Morales",
+        "id_est": 1
+      },
+      {
+        "nombre_est": "Andres Morales",
+        "id_est": 12
+      },
+      {
+        "nombre_est": "Marta Perez",
+        "id_est": 8
+      },
+      {
+        "nombre_est": "Carmen Vargas",
+        "id_est": 15
+      }
+    ],
+    "fecha": "2021-12-10"
+  },
+  {
+    "id": 56,
+    "nombre": "Feria Gastronómica",
+    "descripcion": "Evento para degustar y promover la gastronomía local.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Carlos Ortega",
+        "id_est": 7
+      },
+      {
+        "nombre_est": "Marta Gonzalez",
+        "id_est": 9
+      },
+      {
+        "nombre_est": "Roberto Mendoza",
+        "id_est": 18
+      },
+      {
+        "nombre_est": "Andres Mendoza",
+        "id_est": 3
+      }
+    ],
+    "fecha": "2020-09-15"
+  },
+  {
+    "id": 57,
+    "nombre": "Seminario de Innovación",
+    "descripcion": "Conferencias y talleres sobre innovación tecnológica.",
+    "estudiantes": [
+      {
+        "nombre_est": "Miguel Perez",
+        "id_est": 10
+      },
+      {
+        "nombre_est": "Maria Mendoza",
+        "id_est": 5
+      },
+      {
+        "nombre_est": "Juan Garcia",
+        "id_est": 6
+      },
+      {
+        "nombre_est": "Ana Suarez",
+        "id_est": 16
+      },
+      {
+        "nombre_est": "David Mendoza",
+        "id_est": 21
+      }
+    ],
+    "fecha": "2023-03-05"
+  }
+]
