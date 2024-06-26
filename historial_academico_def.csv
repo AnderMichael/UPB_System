@@ -1,0 +1,601 @@
+id;nombre;nombre_curso;calificacion;fecha
+1;Jorge Morales;Arte1;68;26/6/2024
+1;Jorge Morales;Higiene y Seguridad1;67;26/6/2024
+1;Jorge Morales;Agua1;93;26/6/2024
+2;Roberto Sanchez;Literatura;70;26/6/2024
+2;Roberto Sanchez;Nutrición;93;26/6/2024
+2;Roberto Sanchez;Inglés1;99;26/6/2024
+4;Marta Sanchez;Pediatría1;82;26/6/2024
+4;Marta Sanchez;Gastronomía;92;26/6/2024
+4;Marta Sanchez;Cardiología1;67;26/6/2024
+6;Juan Garcia;Música1;91;26/6/2024
+6;Juan Garcia;Higiene y Seguridad1;81;26/6/2024
+6;Juan Garcia;Agua1;76;26/6/2024
+8;Marta Perez;Física1;82;26/6/2024
+8;Marta Perez;Química1;89;26/6/2024
+8;Marta Perez;Fotografía1;81;26/6/2024
+11;Isabel Vargas;Álgebra1;98;26/6/2024
+11;Isabel Vargas;Nutrición;95;26/6/2024
+11;Isabel Vargas;Dibujo1;93;26/6/2024
+13;Carlos Ortega;Arte1;99;26/6/2024
+13;Carlos Ortega;Cardiología1;99;26/6/2024
+13;Carlos Ortega;Fotografía1;85;26/6/2024
+15;Carmen Sanchez;Calculo1;79;26/6/2024
+15;Carmen Sanchez;Psiquiatría;100;26/6/2024
+15;Carmen Sanchez;Sociología1;85;26/6/2024
+21;David Mendoza;Derecho Administrativo;100;26/6/2024
+21;David Mendoza;Filosofía1;70;26/6/2024
+21;David Mendoza;Bellas Artes1;78;26/6/2024
+24;Maria Navarro;Literatura;90;26/6/2024
+24;Maria Navarro;Ing. Civil1;73;26/6/2024
+24;Maria Navarro;Antropología1;93;26/6/2024
+26;Pedro Fernandez;Filosofía1;98;26/6/2024
+26;Pedro Fernandez;Bellas Artes1;84;26/6/2024
+26;Pedro Fernandez;Psiquiatría;96;26/6/2024
+30;Laura Ortega;Estadística1;89;26/6/2024
+30;Laura Ortega;Psiquiatría;80;26/6/2024
+30;Laura Ortega;Biología1;66;26/6/2024
+36;Carlos Romero;Música1;80;26/6/2024
+36;Carlos Romero;Ing. Eléctrica1;82;26/6/2024
+36;Carlos Romero;Antropología1;90;26/6/2024
+39;Lucia Romero;Ing. de Sistemas1;99;26/6/2024
+39;Lucia Romero;Programación1;87;26/6/2024
+39;Lucia Romero;Neurología1;71;26/6/2024
+42;Andres Ramirez;Bellas Artes1;74;26/6/2024
+42;Andres Ramirez;Comunicación1;78;26/6/2024
+42;Andres Ramirez;Biología1;99;26/6/2024
+43;Roberto Fernandez;Relaciones Internacionales1;75;26/6/2024
+43;Roberto Fernandez;Marketing1;81;26/6/2024
+43;Roberto Fernandez;Oftalmología1;76;26/6/2024
+45;Lucia Hernandez;Programación1;96;26/6/2024
+45;Lucia Hernandez;Oftalmología1;84;26/6/2024
+45;Lucia Hernandez;Neurología1;67;26/6/2024
+46;Angela Castro;Cardiología1;92;26/6/2024
+46;Angela Castro;Teatro1;99;26/6/2024
+46;Angela Castro;Teología1;66;26/6/2024
+48;Maria Rodriguez;Diseño Gráfico;97;26/6/2024
+48;Maria Rodriguez;Química1;86;26/6/2024
+48;Maria Rodriguez;Dibujo1;78;26/6/2024
+50;Juan Morales;Derecho Administrativo;66;26/6/2024
+50;Juan Morales;Inglés1;75;26/6/2024
+50;Juan Morales;Teatro1;81;26/6/2024
+54;Elena Mendoza;Filosofía1;74;26/6/2024
+54;Elena Mendoza;Diseño Gráfico;100;26/6/2024
+54;Elena Mendoza;Cálculo2;93;26/6/2024
+56;Pedro Perez;Veterinaria1;70;26/6/2024
+56;Pedro Perez;Biología1;74;26/6/2024
+56;Pedro Perez;Arquitectura;97;26/6/2024
+59;Carlos Rojas;Pediatría1;86;26/6/2024
+59;Carlos Rojas;Psiquiatría;85;26/6/2024
+59;Carlos Rojas;Programación1;70;26/6/2024
+60;Miguel Sanchez;Ing. Química1;84;26/6/2024
+60;Miguel Sanchez;Ing. Civil1;94;26/6/2024
+60;Miguel Sanchez;Oftalmología1;79;26/6/2024
+64;Laura Navarro;Relaciones Internacionales1;66;26/6/2024
+64;Laura Navarro;Diseño Gráfico;87;26/6/2024
+64;Laura Navarro;Economía1;83;26/6/2024
+66;Jorge Navarro;Álgebra1;82;26/6/2024
+66;Jorge Navarro;Psiquiatría;83;26/6/2024
+66;Jorge Navarro;Higiene y Seguridad1;83;26/6/2024
+68;Ana Lopez;Relaciones Internacionales1;74;26/6/2024
+68;Ana Lopez;Cálculo2;66;26/6/2024
+68;Ana Lopez;Ing. Civil1;71;26/6/2024
+70;Roberto Ortega;Filosofía1;97;26/6/2024
+70;Roberto Ortega;Veterinaria1;83;26/6/2024
+70;Roberto Ortega;Programación1;100;26/6/2024
+71;Pedro Gonzalez;Química1;89;26/6/2024
+71;Pedro Gonzalez;Comunicación1;74;26/6/2024
+71;Pedro Gonzalez;Agua1;98;26/6/2024
+74;Angela Navarro;Física1;71;26/6/2024
+74;Angela Navarro;Marketing1;85;26/6/2024
+74;Angela Navarro;Biología1;66;26/6/2024
+78;David Rodriguez;Sociología1;79;26/6/2024
+78;David Rodriguez;Teatro1;97;26/6/2024
+78;David Rodriguez;Arquitectura;77;26/6/2024
+79;Pedro Suarez;Gastronomía;72;26/6/2024
+79;Pedro Suarez;Sociología1;71;26/6/2024
+79;Pedro Suarez;Neurología1;78;26/6/2024
+85;Maria Navarro;Programación1;95;26/6/2024
+85;Maria Navarro;Agua1;89;26/6/2024
+85;Maria Navarro;Oftalmología1;99;26/6/2024
+92;Miguel Perez;Veterinaria1;76;26/6/2024
+92;Miguel Perez;Higiene y Seguridad1;85;26/6/2024
+92;Miguel Perez;Antropología1;67;26/6/2024
+94;Ana Ortega;Turismo1;95;26/6/2024
+94;Ana Ortega;Historia;79;26/6/2024
+94;Ana Ortega;Sociología1;75;26/6/2024
+95;Laura Romero;Psicología1;80;26/6/2024
+95;Laura Romero;Cálculo2;68;26/6/2024
+95;Laura Romero;Administración de Empresas1;82;26/6/2024
+96;Lucia Rodriguez;Pediatría1;78;26/6/2024
+96;Lucia Rodriguez;Arquitectura;87;26/6/2024
+96;Lucia Rodriguez;Agua1;78;26/6/2024
+98;Roberto Suarez;Ing. Mecánica1;75;26/6/2024
+98;Roberto Suarez;Veterinaria1;94;26/6/2024
+98;Roberto Suarez;Música1;89;26/6/2024
+99;Carmen Vargas;Estadística1;75;26/6/2024
+99;Carmen Vargas;Geografía1;92;26/6/2024
+99;Carmen Vargas;Neurología1;74;26/6/2024
+101;Jose Mendoza;Ing. de Sistemas1;77;26/6/2024
+101;Jose Mendoza;Gastronomía;71;26/6/2024
+101;Jose Mendoza;Historia;86;26/6/2024
+102;Sofia Rojas;Ing. Mecánica1;97;26/6/2024
+102;Sofia Rojas;Química1;74;26/6/2024
+102;Sofia Rojas;Fotografía1;71;26/6/2024
+103;Lucia Perez;Veterinaria1;78;26/6/2024
+103;Lucia Perez;Ing. Civil1;72;26/6/2024
+103;Lucia Perez;Neurología1;77;26/6/2024
+107;Andres Mendoza;Arte1;65;26/6/2024
+107;Andres Mendoza;Sociología1;84;26/6/2024
+107;Andres Mendoza;Música1;87;26/6/2024
+108;Roberto Rodriguez;Derecho Administrativo;87;26/6/2024
+108;Roberto Rodriguez;Álgebra1;94;26/6/2024
+108;Roberto Rodriguez;Cálculo2;80;26/6/2024
+110;Ana Suarez;Cardiología1;99;26/6/2024
+110;Ana Suarez;Odontología1;94;26/6/2024
+110;Ana Suarez;Música1;85;26/6/2024
+114;Lucia Lopez;Estadística1;87;26/6/2024
+114;Lucia Lopez;Álgebra1;76;26/6/2024
+114;Lucia Lopez;Psiquiatría;96;26/6/2024
+120;Elena Mendoza;Calculo1;76;26/6/2024
+120;Elena Mendoza;Teología1;79;26/6/2024
+120;Elena Mendoza;Neurología1;77;26/6/2024
+121;Carlos Reyes;Estadística1;78;26/6/2024
+121;Carlos Reyes;Nutrición;81;26/6/2024
+121;Carlos Reyes;Química1;76;26/6/2024
+122;Jorge Vargas;Filosofía1;75;26/6/2024
+122;Jorge Vargas;Dibujo1;72;26/6/2024
+122;Jorge Vargas;Antropología1;65;26/6/2024
+123;Jorge Ramirez;Filosofía1;87;26/6/2024
+123;Jorge Ramirez;Física1;70;26/6/2024
+123;Jorge Ramirez;Psicología1;96;26/6/2024
+127;Juan Rodriguez;Filosofía1;73;26/6/2024
+127;Juan Rodriguez;Geografía1;74;26/6/2024
+127;Juan Rodriguez;Comunicación1;94;26/6/2024
+128;Elena Ortega;Bellas Artes1;94;26/6/2024
+128;Elena Ortega;Inglés1;92;26/6/2024
+128;Elena Ortega;Teatro1;91;26/6/2024
+129;Luis Reyes;Física1;77;26/6/2024
+129;Luis Reyes;Teología1;79;26/6/2024
+129;Luis Reyes;Antropología1;85;26/6/2024
+130;David Rodriguez;Arte1;81;26/6/2024
+130;David Rodriguez;Biología1;70;26/6/2024
+130;David Rodriguez;Teología1;70;26/6/2024
+131;Carmen Lopez;Calculo1;73;26/6/2024
+131;Carmen Lopez;Bellas Artes1;82;26/6/2024
+131;Carmen Lopez;Diseño Gráfico;99;26/6/2024
+133;Carlos Gonzalez;Ing. Química1;88;26/6/2024
+133;Carlos Gonzalez;Agua1;78;26/6/2024
+133;Carlos Gonzalez;Economía1;77;26/6/2024
+134;Andres Rodriguez;Nutrición;92;26/6/2024
+134;Andres Rodriguez;Administración de Empresas1;76;26/6/2024
+134;Andres Rodriguez;Ing. Eléctrica1;81;26/6/2024
+137;Luis Sanchez;Fotografía1;100;26/6/2024
+137;Luis Sanchez;Música1;68;26/6/2024
+137;Luis Sanchez;Teología1;82;26/6/2024
+138;Miguel Suarez;Derecho Administrativo;99;26/6/2024
+138;Miguel Suarez;Gastronomía;86;26/6/2024
+138;Miguel Suarez;Economía1;82;26/6/2024
+139;Andres Perez;Relaciones Internacionales1;68;26/6/2024
+139;Andres Perez;Arquitectura;72;26/6/2024
+139;Andres Perez;Oftalmología1;87;26/6/2024
+141;Juan Rojas;Relaciones Internacionales1;96;26/6/2024
+141;Juan Rojas;Inglés1;69;26/6/2024
+141;Juan Rojas;Neurología1;100;26/6/2024
+143;Carlos Rojas;Ing. de Sistemas1;78;26/6/2024
+143;Carlos Rojas;Inglés1;74;26/6/2024
+143;Carlos Rojas;Antropología1;87;26/6/2024
+144;Jose Sanchez;Filosofía1;91;26/6/2024
+144;Jose Sanchez;Programación1;98;26/6/2024
+144;Jose Sanchez;Fotografía1;68;26/6/2024
+145;Sofia Mendoza;Álgebra1;70;26/6/2024
+145;Sofia Mendoza;Inglés1;68;26/6/2024
+145;Sofia Mendoza;Cálculo2;82;26/6/2024
+149;Ana Suarez;Psiquiatría;69;26/6/2024
+149;Ana Suarez;Cardiología1;98;26/6/2024
+149;Ana Suarez;Odontología1;79;26/6/2024
+151;Luis Hernandez;Nutrición;72;26/6/2024
+151;Luis Hernandez;Psicología1;70;26/6/2024
+151;Luis Hernandez;Cálculo2;88;26/6/2024
+153;Jorge Morales;Filosofía1;92;26/6/2024
+153;Jorge Morales;Fotografía1;76;26/6/2024
+153;Jorge Morales;Antropología1;87;26/6/2024
+154;Marta Gonzalez;Calculo1;84;26/6/2024
+154;Marta Gonzalez;Cálculo2;96;26/6/2024
+154;Marta Gonzalez;Administración de Empresas1;65;26/6/2024
+156;Carmen Vargas;Gastronomía;72;26/6/2024
+156;Carmen Vargas;Ing. Mecánica1;70;26/6/2024
+156;Carmen Vargas;Biología1;65;26/6/2024
+157;Laura Perez;Turismo1;79;26/6/2024
+157;Laura Perez;Veterinaria1;98;26/6/2024
+157;Laura Perez;Higiene y Seguridad1;87;26/6/2024
+161;Jorge Vargas;Turismo1;78;26/6/2024
+161;Jorge Vargas;Artes Marciales1;79;26/6/2024
+161;Jorge Vargas;Antropología1;69;26/6/2024
+162;Isabel Fernandez;Diseño Gráfico;71;26/6/2024
+162;Isabel Fernandez;Odontología1;99;26/6/2024
+162;Isabel Fernandez;Arquitectura;80;26/6/2024
+166;Angela Vargas;Ing. de Sistemas1;86;26/6/2024
+166;Angela Vargas;Ing. Química1;92;26/6/2024
+166;Angela Vargas;Higiene y Seguridad1;93;26/6/2024
+170;Isabel Martinez;Sociología1;99;26/6/2024
+170;Isabel Martinez;Ing. Civil1;83;26/6/2024
+170;Isabel Martinez;Antropología1;79;26/6/2024
+172;Carmen Martinez;Ing. Química1;88;26/6/2024
+172;Carmen Martinez;Sociología1;88;26/6/2024
+172;Carmen Martinez;Teatro1;80;26/6/2024
+173;Laura Suarez;Estadística1;91;26/6/2024
+173;Laura Suarez;Turismo1;83;26/6/2024
+173;Laura Suarez;Diseño Gráfico;89;26/6/2024
+183;Carlos Rojas;Historia;88;26/6/2024
+183;Carlos Rojas;Artes Marciales1;65;26/6/2024
+183;Carlos Rojas;Higiene y Seguridad1;68;26/6/2024
+186;Maria Rodriguez;Historia;65;26/6/2024
+186;Maria Rodriguez;Nutrición;74;26/6/2024
+186;Maria Rodriguez;Agua1;88;26/6/2024
+190;Andres Suarez;Turismo1;87;26/6/2024
+190;Andres Suarez;Química1;95;26/6/2024
+190;Andres Suarez;Comunicación1;100;26/6/2024
+192;Laura Ortega;Física1;96;26/6/2024
+192;Laura Ortega;Veterinaria1;85;26/6/2024
+192;Laura Ortega;Artes Marciales1;100;26/6/2024
+195;Maria Perez;Calculo1;87;26/6/2024
+195;Maria Perez;Estadística1;87;26/6/2024
+195;Maria Perez;Física1;75;26/6/2024
+198;Andres Fernandez;Estadística1;89;26/6/2024
+198;Andres Fernandez;Física1;67;26/6/2024
+198;Andres Fernandez;Administración de Empresas1;92;26/6/2024
+199;Andres Reyes;Derecho Administrativo;100;26/6/2024
+199;Andres Reyes;Teatro1;67;26/6/2024
+199;Andres Reyes;Arquitectura;98;26/6/2024
+200;Carmen Fernandez;Ing. Mecánica1;68;26/6/2024
+200;Carmen Fernandez;Arte1;83;26/6/2024
+200;Carmen Fernandez;Ing. Civil1;100;26/6/2024
+201;Luis Romero;Gastronomía;86;26/6/2024
+201;Luis Romero;Biología1;74;26/6/2024
+201;Luis Romero;Música1;85;26/6/2024
+205;Roberto Morales;Derecho Administrativo;86;26/6/2024
+205;Roberto Morales;Arquitectura;98;26/6/2024
+205;Roberto Morales;Teología1;77;26/6/2024
+206;Elena Romero;Sociología1;68;26/6/2024
+206;Elena Romero;Química1;78;26/6/2024
+206;Elena Romero;Ing. Eléctrica1;90;26/6/2024
+207;Elena Gonzalez;Gastronomía;97;26/6/2024
+207;Elena Gonzalez;Historia;82;26/6/2024
+207;Elena Gonzalez;Inglés1;95;26/6/2024
+209;Maria Mendoza;Ing. Mecánica1;72;26/6/2024
+209;Maria Mendoza;Cálculo2;72;26/6/2024
+209;Maria Mendoza;Odontología1;71;26/6/2024
+213;Luis Gonzalez;Ing. Industrial1;69;26/6/2024
+213;Luis Gonzalez;Sociología1;68;26/6/2024
+213;Luis Gonzalez;Economía1;99;26/6/2024
+215;Lucia Suarez;Psiquiatría;77;26/6/2024
+215;Lucia Suarez;Historia;100;26/6/2024
+215;Lucia Suarez;Economía1;91;26/6/2024
+217;Andres Ramirez;Turismo1;65;26/6/2024
+217;Andres Ramirez;Ing. Mecánica1;79;26/6/2024
+217;Andres Ramirez;Inglés1;72;26/6/2024
+219;Carlos Rojas;Filosofía1;97;26/6/2024
+219;Carlos Rojas;Turismo1;65;26/6/2024
+219;Carlos Rojas;Fotografía1;77;26/6/2024
+220;Angela Fernandez;Cardiología1;91;26/6/2024
+220;Angela Fernandez;Fotografía1;80;26/6/2024
+220;Angela Fernandez;Ing. Eléctrica1;77;26/6/2024
+222;Sofia Vargas;Química1;82;26/6/2024
+222;Sofia Vargas;Biología1;92;26/6/2024
+222;Sofia Vargas;Ing. Eléctrica1;69;26/6/2024
+227;Pedro Garcia;Ing. de Sistemas1;76;26/6/2024
+227;Pedro Garcia;Inglés1;68;26/6/2024
+227;Pedro Garcia;Teología1;97;26/6/2024
+231;Lucia Ortega;Relaciones Internacionales1;84;26/6/2024
+231;Lucia Ortega;Programación1;92;26/6/2024
+231;Lucia Ortega;Higiene y Seguridad1;80;26/6/2024
+232;Isabel Hernandez;Ing. Química1;100;26/6/2024
+232;Isabel Hernandez;Veterinaria1;90;26/6/2024
+232;Isabel Hernandez;Neurología1;97;26/6/2024
+234;Juan Rojas;Geografía1;81;26/6/2024
+234;Juan Rojas;Ing. Mecánica1;76;26/6/2024
+234;Juan Rojas;Teatro1;79;26/6/2024
+238;Isabel Perez;Psiquiatría;90;26/6/2024
+238;Isabel Perez;Teatro1;89;26/6/2024
+238;Isabel Perez;Teología1;75;26/6/2024
+239;Pedro Suarez;Filosofía1;75;26/6/2024
+239;Pedro Suarez;Programación1;91;26/6/2024
+239;Pedro Suarez;Ing. Eléctrica1;91;26/6/2024
+247;Elena Vargas;Turismo1;88;26/6/2024
+247;Elena Vargas;Sociología1;85;26/6/2024
+247;Elena Vargas;Programación1;86;26/6/2024
+249;Laura Ramirez;Estadística1;97;26/6/2024
+249;Laura Ramirez;Arquitectura;88;26/6/2024
+249;Laura Ramirez;Artes Marciales1;91;26/6/2024
+251;Elena Garcia;Psicología1;82;26/6/2024
+251;Elena Garcia;Sociología1;76;26/6/2024
+251;Elena Garcia;Ing. Eléctrica1;87;26/6/2024
+252;Lucia Sanchez;Geografía1;90;26/6/2024
+252;Lucia Sanchez;Sociología1;79;26/6/2024
+252;Lucia Sanchez;Oftalmología1;83;26/6/2024
+254;David Sanchez;Diseño Gráfico;81;26/6/2024
+254;David Sanchez;Veterinaria1;100;26/6/2024
+254;David Sanchez;Cálculo2;65;26/6/2024
+255;Carmen Castro;Estadística1;81;26/6/2024
+255;Carmen Castro;Física1;73;26/6/2024
+255;Carmen Castro;Programación1;95;26/6/2024
+260;Lucia Rodriguez;Psiquiatría;69;26/6/2024
+260;Lucia Rodriguez;Ing. Mecánica1;74;26/6/2024
+260;Lucia Rodriguez;Programación1;88;26/6/2024
+262;Miguel Lopez;Estadística1;99;26/6/2024
+262;Miguel Lopez;Ing. Química1;82;26/6/2024
+262;Miguel Lopez;Diseño Gráfico;94;26/6/2024
+263;Jose Suarez;Ing. de Sistemas1;71;26/6/2024
+263;Jose Suarez;Psicología1;97;26/6/2024
+263;Jose Suarez;Marketing1;91;26/6/2024
+264;Carlos Navarro;Historia;97;26/6/2024
+264;Carlos Navarro;Psicología1;89;26/6/2024
+264;Carlos Navarro;Arte1;96;26/6/2024
+268;Roberto Lopez;Calculo1;88;26/6/2024
+268;Roberto Lopez;Álgebra1;70;26/6/2024
+268;Roberto Lopez;Ing. Civil1;99;26/6/2024
+270;Luis Mendoza;Pediatría1;89;26/6/2024
+270;Luis Mendoza;Historia;84;26/6/2024
+270;Luis Mendoza;Cardiología1;65;26/6/2024
+273;Laura Navarro;Turismo1;100;26/6/2024
+273;Laura Navarro;Física1;69;26/6/2024
+273;Laura Navarro;Teatro1;89;26/6/2024
+275;Jorge Castro;Derecho Administrativo;79;26/6/2024
+275;Jorge Castro;Ing. de Sistemas1;78;26/6/2024
+275;Jorge Castro;Sociología1;66;26/6/2024
+276;David Castro;Física1;70;26/6/2024
+276;David Castro;Odontología1;99;26/6/2024
+276;David Castro;Teología1;80;26/6/2024
+277;Lucia Suarez;Álgebra1;66;26/6/2024
+277;Lucia Suarez;Arte1;71;26/6/2024
+277;Lucia Suarez;Higiene y Seguridad1;80;26/6/2024
+283;David Rodriguez;Derecho Administrativo;82;26/6/2024
+283;David Rodriguez;Álgebra1;93;26/6/2024
+283;David Rodriguez;Diseño Gráfico;78;26/6/2024
+285;Sofia Morales;Geografía1;80;26/6/2024
+285;Sofia Morales;Administración de Empresas1;67;26/6/2024
+285;Sofia Morales;Oftalmología1;87;26/6/2024
+286;Maria Lopez;Álgebra1;71;26/6/2024
+286;Maria Lopez;Química1;100;26/6/2024
+286;Maria Lopez;Comunicación1;77;26/6/2024
+287;Jose Mendoza;Estadística1;90;26/6/2024
+287;Jose Mendoza;Álgebra1;68;26/6/2024
+287;Jose Mendoza;Fotografía1;81;26/6/2024
+294;Miguel Morales;Teatro1;93;26/6/2024
+294;Miguel Morales;Higiene y Seguridad1;95;26/6/2024
+294;Miguel Morales;Neurología1;65;26/6/2024
+295;Elena Martinez;Estadística1;94;26/6/2024
+295;Elena Martinez;Cardiología1;89;26/6/2024
+295;Elena Martinez;Ing. Civil1;99;26/6/2024
+298;Carmen Hernandez;Cálculo2;90;26/6/2024
+298;Carmen Hernandez;Fotografía1;69;26/6/2024
+298;Carmen Hernandez;Teatro1;94;26/6/2024
+300;Carlos Rodriguez;Geografía1;69;26/6/2024
+300;Carlos Rodriguez;Sociología1;69;26/6/2024
+300;Carlos Rodriguez;Administración de Empresas1;78;26/6/2024
+301;Carmen Fernandez;Filosofía1;89;26/6/2024
+301;Carmen Fernandez;Relaciones Internacionales1;73;26/6/2024
+301;Carmen Fernandez;Economía1;96;26/6/2024
+304;Maria Rodriguez;Biología1;85;26/6/2024
+304;Maria Rodriguez;Teatro1;96;26/6/2024
+304;Maria Rodriguez;Neurología1;68;26/6/2024
+306;Carlos Navarro;Gastronomía;84;26/6/2024
+306;Carlos Navarro;Nutrición;89;26/6/2024
+306;Carlos Navarro;Psicología1;66;26/6/2024
+308;Angela Ramirez;Derecho Administrativo;98;26/6/2024
+308;Angela Ramirez;Comunicación1;74;26/6/2024
+308;Angela Ramirez;Inglés1;87;26/6/2024
+309;Juan Gonzalez;Ing. de Sistemas1;86;26/6/2024
+309;Juan Gonzalez;Pediatría1;65;26/6/2024
+309;Juan Gonzalez;Higiene y Seguridad1;96;26/6/2024
+318;Angela Suarez;Ing. de Sistemas1;66;26/6/2024
+318;Angela Suarez;Teatro1;89;26/6/2024
+318;Angela Suarez;Higiene y Seguridad1;84;26/6/2024
+322;Isabel Suarez;Pediatría1;68;26/6/2024
+322;Isabel Suarez;Sociología1;85;26/6/2024
+322;Isabel Suarez;Teatro1;70;26/6/2024
+323;Lucia Suarez;Literatura;78;26/6/2024
+323;Lucia Suarez;Ing. Civil1;80;26/6/2024
+323;Lucia Suarez;Oftalmología1;78;26/6/2024
+325;Juan Navarro;Psiquiatría;67;26/6/2024
+325;Juan Navarro;Diseño Gráfico;95;26/6/2024
+325;Juan Navarro;Agua1;68;26/6/2024
+326;Laura Hernandez;Inglés1;67;26/6/2024
+326;Laura Hernandez;Cálculo2;75;26/6/2024
+326;Laura Hernandez;Ing. Civil1;81;26/6/2024
+327;Marta Romero;Psiquiatría;84;26/6/2024
+327;Marta Romero;Fotografía1;88;26/6/2024
+327;Marta Romero;Neurología1;99;26/6/2024
+329;Juan Rodriguez;Literatura;86;26/6/2024
+329;Juan Rodriguez;Álgebra1;78;26/6/2024
+329;Juan Rodriguez;Agua1;74;26/6/2024
+339;Marta Vargas;Relaciones Internacionales1;77;26/6/2024
+339;Marta Vargas;Química1;67;26/6/2024
+339;Marta Vargas;Economía1;100;26/6/2024
+341;Isabel Martinez;Ing. Civil1;68;26/6/2024
+341;Isabel Martinez;Odontología1;77;26/6/2024
+341;Isabel Martinez;Oftalmología1;89;26/6/2024
+345;Luis Navarro;Psiquiatría;97;26/6/2024
+345;Luis Navarro;Sociología1;96;26/6/2024
+345;Luis Navarro;Teatro1;65;26/6/2024
+348;Jose Castro;Calculo1;69;26/6/2024
+348;Jose Castro;Estadística1;93;26/6/2024
+348;Jose Castro;Oftalmología1;74;26/6/2024
+349;Sofia Martinez;Comunicación1;79;26/6/2024
+349;Sofia Martinez;Artes Marciales1;80;26/6/2024
+349;Sofia Martinez;Economía1;65;26/6/2024
+351;Elena Lopez;Álgebra1;79;26/6/2024
+351;Elena Lopez;Ing. Eléctrica1;91;26/6/2024
+351;Elena Lopez;Antropología1;69;26/6/2024
+352;Sofia Gonzalez;Calculo1;67;26/6/2024
+352;Sofia Gonzalez;Administración de Empresas1;91;26/6/2024
+352;Sofia Gonzalez;Agua1;96;26/6/2024
+353;Elena Garcia;Psiquiatría;94;26/6/2024
+353;Elena Garcia;Inglés1;83;26/6/2024
+353;Elena Garcia;Higiene y Seguridad1;97;26/6/2024
+355;Ana Gonzalez;Cálculo2;91;26/6/2024
+355;Ana Gonzalez;Programación1;69;26/6/2024
+355;Ana Gonzalez;Ing. Eléctrica1;79;26/6/2024
+363;Ana Romero;Estadística1;78;26/6/2024
+363;Ana Romero;Geografía1;66;26/6/2024
+363;Ana Romero;Química1;92;26/6/2024
+364;Ana Vargas;Literatura;67;26/6/2024
+364;Ana Vargas;Turismo1;73;26/6/2024
+364;Ana Vargas;Fotografía1;68;26/6/2024
+366;Luis Romero;Gastronomía;81;26/6/2024
+366;Luis Romero;Cálculo2;92;26/6/2024
+366;Luis Romero;Teatro1;66;26/6/2024
+372;Laura Rojas;Física1;66;26/6/2024
+372;Laura Rojas;Arte1;75;26/6/2024
+372;Laura Rojas;Teatro1;71;26/6/2024
+375;Juan Mendoza;Literatura;75;26/6/2024
+375;Juan Mendoza;Biología1;99;26/6/2024
+375;Juan Mendoza;Antropología1;66;26/6/2024
+376;Sofia Martinez;Historia;81;26/6/2024
+376;Sofia Martinez;Sociología1;100;26/6/2024
+376;Sofia Martinez;Ing. Eléctrica1;91;26/6/2024
+377;Isabel Rodriguez;Calculo1;97;26/6/2024
+377;Isabel Rodriguez;Ing. de Sistemas1;98;26/6/2024
+377;Isabel Rodriguez;Relaciones Internacionales1;97;26/6/2024
+381;Maria Suarez;Gastronomía;79;26/6/2024
+381;Maria Suarez;Psicología1;84;26/6/2024
+381;Maria Suarez;Antropología1;85;26/6/2024
+384;Jose Romero;Filosofía1;76;26/6/2024
+384;Jose Romero;Bellas Artes1;99;26/6/2024
+384;Jose Romero;Odontología1;90;26/6/2024
+386;Laura Morales;Filosofía1;71;26/6/2024
+386;Laura Morales;Física1;95;26/6/2024
+386;Laura Morales;Sociología1;83;26/6/2024
+391;Andres Rodriguez;Ing. Química1;92;26/6/2024
+391;Andres Rodriguez;Ing. Industrial1;89;26/6/2024
+391;Andres Rodriguez;Ing. Civil1;81;26/6/2024
+393;Andres Hernandez;Calculo1;78;26/6/2024
+393;Andres Hernandez;Fotografía1;75;26/6/2024
+393;Andres Hernandez;Neurología1;86;26/6/2024
+400;Laura Garcia;Estadística1;95;26/6/2024
+400;Laura Garcia;Fotografía1;83;26/6/2024
+400;Laura Garcia;Higiene y Seguridad1;65;26/6/2024
+406;Miguel Sanchez;Historia;68;26/6/2024
+406;Miguel Sanchez;Ing. Eléctrica1;84;26/6/2024
+406;Miguel Sanchez;Antropología1;92;26/6/2024
+407;Isabel Suarez;Relaciones Internacionales1;90;26/6/2024
+407;Isabel Suarez;Veterinaria1;99;26/6/2024
+407;Isabel Suarez;Biología1;84;26/6/2024
+409;Roberto Lopez;Gastronomía;67;26/6/2024
+409;Roberto Lopez;Literatura;79;26/6/2024
+409;Roberto Lopez;Ing. Mecánica1;94;26/6/2024
+410;Miguel Vargas;Biología1;96;26/6/2024
+410;Miguel Vargas;Odontología1;86;26/6/2024
+410;Miguel Vargas;Administración de Empresas1;70;26/6/2024
+411;Ana Mendoza;Ing. Industrial1;99;26/6/2024
+411;Ana Mendoza;Higiene y Seguridad1;65;26/6/2024
+411;Ana Mendoza;Economía1;92;26/6/2024
+413;Angela Martinez;Gastronomía;97;26/6/2024
+413;Angela Martinez;Inglés1;69;26/6/2024
+413;Angela Martinez;Cálculo2;81;26/6/2024
+415;David Ortega;Arquitectura;74;26/6/2024
+415;David Ortega;Agua1;77;26/6/2024
+415;David Ortega;Oftalmología1;95;26/6/2024
+416;Carmen Hernandez;Psiquiatría;81;26/6/2024
+416;Carmen Hernandez;Veterinaria1;74;26/6/2024
+416;Carmen Hernandez;Biología1;75;26/6/2024
+417;Lucia Martinez;Teatro1;89;26/6/2024
+417;Lucia Martinez;Dibujo1;94;26/6/2024
+417;Lucia Martinez;Agua1;73;26/6/2024
+418;Lucia Reyes;Ing. Industrial1;74;26/6/2024
+418;Lucia Reyes;Psicología1;72;26/6/2024
+418;Lucia Reyes;Ing. Mecánica1;92;26/6/2024
+419;Marta Hernandez;Historia;78;26/6/2024
+419;Marta Hernandez;Nutrición;74;26/6/2024
+419;Marta Hernandez;Veterinaria1;97;26/6/2024
+420;Ana Ortega;Historia;93;26/6/2024
+420;Ana Ortega;Ing. Mecánica1;88;26/6/2024
+420;Ana Ortega;Teología1;70;26/6/2024
+422;Pedro Castro;Marketing1;67;26/6/2024
+422;Pedro Castro;Artes Marciales1;69;26/6/2024
+422;Pedro Castro;Higiene y Seguridad1;94;26/6/2024
+423;Jose Garcia;Gastronomía;67;26/6/2024
+423;Jose Garcia;Fotografía1;75;26/6/2024
+423;Jose Garcia;Agua1;92;26/6/2024
+424;Sofia Lopez;Gastronomía;67;26/6/2024
+424;Sofia Lopez;Marketing1;80;26/6/2024
+424;Sofia Lopez;Comunicación1;65;26/6/2024
+426;Maria Rojas;Ing. de Sistemas1;71;26/6/2024
+426;Maria Rojas;Bellas Artes1;91;26/6/2024
+426;Maria Rojas;Turismo1;96;26/6/2024
+428;Lucia Romero;Arquitectura;79;26/6/2024
+428;Lucia Romero;Música1;95;26/6/2024
+428;Lucia Romero;Antropología1;97;26/6/2024
+436;Andres Rodriguez;Nutrición;84;26/6/2024
+436;Andres Rodriguez;Ing. Mecánica1;96;26/6/2024
+436;Andres Rodriguez;Ing. Civil1;91;26/6/2024
+441;Luis Gonzalez;Física1;69;26/6/2024
+441;Luis Gonzalez;Biología1;91;26/6/2024
+441;Luis Gonzalez;Ing. Eléctrica1;83;26/6/2024
+443;Ana Perez;Calculo1;73;26/6/2024
+443;Ana Perez;Física1;75;26/6/2024
+443;Ana Perez;Administración de Empresas1;99;26/6/2024
+446;Elena Lopez;Bellas Artes1;89;26/6/2024
+446;Elena Lopez;Inglés1;89;26/6/2024
+446;Elena Lopez;Biología1;66;26/6/2024
+447;Lucia Navarro;Filosofía1;67;26/6/2024
+447;Lucia Navarro;Inglés1;90;26/6/2024
+447;Lucia Navarro;Fotografía1;82;26/6/2024
+450;Isabel Romero;Comunicación1;67;26/6/2024
+450;Isabel Romero;Fotografía1;94;26/6/2024
+450;Isabel Romero;Teatro1;96;26/6/2024
+452;Marta Ortega;Ing. Mecánica1;79;26/6/2024
+452;Marta Ortega;Programación1;72;26/6/2024
+452;Marta Ortega;Fotografía1;73;26/6/2024
+453;Laura Navarro;Filosofía1;94;26/6/2024
+453;Laura Navarro;Marketing1;72;26/6/2024
+453;Laura Navarro;Teatro1;80;26/6/2024
+454;Jorge Martinez;Derecho Administrativo;84;26/6/2024
+454;Jorge Martinez;Bellas Artes1;69;26/6/2024
+454;Jorge Martinez;Ing. Civil1;83;26/6/2024
+457;Lucia Castro;Calculo1;78;26/6/2024
+457;Lucia Castro;Comunicación1;82;26/6/2024
+457;Lucia Castro;Programación1;87;26/6/2024
+458;Jose Sanchez;Nutrición;67;26/6/2024
+458;Jose Sanchez;Física1;69;26/6/2024
+458;Jose Sanchez;Ing. Industrial1;87;26/6/2024
+459;Carmen Navarro;Pediatría1;73;26/6/2024
+459;Carmen Navarro;Agua1;91;26/6/2024
+459;Carmen Navarro;Antropología1;77;26/6/2024
+462;David Sanchez;Pediatría1;74;26/6/2024
+462;David Sanchez;Álgebra1;86;26/6/2024
+462;David Sanchez;Química1;86;26/6/2024
+465;Sofia Garcia;Derecho Administrativo;76;26/6/2024
+465;Sofia Garcia;Ing. Química1;66;26/6/2024
+465;Sofia Garcia;Ing. Civil1;85;26/6/2024
+466;Marta Reyes;Geografía1;67;26/6/2024
+466;Marta Reyes;Física1;84;26/6/2024
+466;Marta Reyes;Odontología1;97;26/6/2024
+468;Jose Morales;Álgebra1;94;26/6/2024
+468;Jose Morales;Biología1;89;26/6/2024
+468;Jose Morales;Ing. Civil1;84;26/6/2024
+469;Lucia Rodriguez;Química1;66;26/6/2024
+469;Lucia Rodriguez;Programación1;99;26/6/2024
+469;Lucia Rodriguez;Neurología1;82;26/6/2024
+470;Miguel Romero;Relaciones Internacionales1;82;26/6/2024
+470;Miguel Romero;Sociología1;72;26/6/2024
+470;Miguel Romero;Ing. Civil1;74;26/6/2024
+473;Angela Reyes;Diseño Gráfico;100;26/6/2024
+473;Angela Reyes;Arte1;85;26/6/2024
+473;Angela Reyes;Cálculo2;82;26/6/2024
+480;Roberto Martinez;Geografía1;74;26/6/2024
+480;Roberto Martinez;Diseño Gráfico;78;26/6/2024
+480;Roberto Martinez;Artes Marciales1;93;26/6/2024
+482;Maria Rodriguez;Ing. Química1;67;26/6/2024
+482;Maria Rodriguez;Cardiología1;94;26/6/2024
+482;Maria Rodriguez;Teatro1;73;26/6/2024
+487;Ana Rojas;Filosofía1;67;26/6/2024
+487;Ana Rojas;Cardiología1;87;26/6/2024
+487;Ana Rojas;Antropología1;98;26/6/2024
+490;David Perez;Turismo1;99;26/6/2024
+490;David Perez;Nutrición;80;26/6/2024
+490;David Perez;Fotografía1;91;26/6/2024
+496;David Mendoza;Gastronomía;95;26/6/2024
+496;David Mendoza;Ing. Química1;90;26/6/2024
+496;David Mendoza;Biología1;65;26/6/2024
