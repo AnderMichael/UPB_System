@@ -33,7 +33,7 @@ for actividad in actividades:
 df_aplanado = pd.DataFrame(actividades_aplanadas)
 
 # Guardar el DataFrame en un archivo CSV
-csv_file_path = 'actividades_flat.csv'
+csv_file_path = './BigData/actividades_flat.csv'
 df_aplanado.to_csv(csv_file_path, index=False)
 
 print(f'Datos aplanados guardados en {csv_file_path}')

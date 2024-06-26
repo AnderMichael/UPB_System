@@ -1,0 +1,212 @@
+[
+  {
+    "_id": 1,
+    "enunciado": "Las herramientas de I.A. me ayudaron a resolver mis dudas de manera efectiva en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 2,
+    "enunciado": "Al utilizar herramientas de I.A. en esta materia, pude mejorar mi comprensión del material del curso.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 3,
+    "enunciado": "Las herramientas de I.A. utilizadas en esta materia, me permitieron explorar y profundizar en temas de manera efectiva.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 4,
+    "enunciado": "Las herramientas de I.A. utilizadas en esta materia, fomentaron mi creatividad e innovación.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 5,
+    "enunciado": "Las herramientas de I.A. utilizadas en esta materia, aumentaron mi productividad.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 6,
+    "enunciado": "Las herramientas de I.A. utilizadas en esta materia, me ayudaron a encontrar respuestas de forma más rápida que otros recursos disponibles (como el buscador de Google).",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 7,
+    "enunciado": "Las herramientas de I.A. utilizadas en esta materia, fueron útiles para la evaluación de mi conocimiento.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 8,
+    "enunciado": "Al utilizar herramientas de I.A. en esta materia, pude mejorar mi formación universitaria.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 9,
+    "enunciado": "Recomiendo el uso de herramientas de I.A. a otros estudiantes para esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 10,
+    "enunciado": "El ChatGPT utilizado en esta materia, fue una herramienta útil para mejorar mi interacción con mis compañeros de clase.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 11,
+    "enunciado": "El ChatGPT utilizado en esta materia, fue una herramienta útil para mejorar mi interacción con el docente.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 12,
+    "enunciado": "Obtuve respuestas adecuadas a mis preguntas en ChatGPT utilizado en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 13,
+    "enunciado": "El ChatGPT fue una herramienta confiable para el aprendizaje en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 14,
+    "enunciado": "El ChatGPT utilizado en esta materia, mejoró mi capacidad para aplicar los conocimientos adquiridos a situaciones prácticas.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 15,
+    "enunciado": "El uso de ChatGPT utilizado en esta materia, mejoró mi capacidad para realizar investigaciones académicas.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 16,
+    "enunciado": "Cuando utilicé herramientas de I.A. como ChatGPT en prácticas, tareas o proyectos en esta materia, incluí las referencias bibliográficas.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 17,
+    "enunciado": "El docente de esta materia demostró que domina herramientas de I.A.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 18,
+    "enunciado": "El docente de esta materia promovió el uso del Chat GPT en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 19,
+    "enunciado": "ChatGPT es la herramienta de I.A. que más he usado en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 20,
+    "enunciado": "Las herramientas de I.A. se aplicaron a esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 21,
+    "enunciado": "Domino herramientas de I.A. aplicadas a mi carrera promovidas por esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 22,
+    "enunciado": "Domino el uso de la herramienta ChatGPT en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 23,
+    "enunciado": "No tuve dificultades para formular las preguntas en el ChatGPT en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 24,
+    "enunciado": "Me pareció fácil usar herramientas de I.A. para formular mis preguntas en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 25,
+    "enunciado": "Las herramientas de I.A. utilizadas en esta materia, fueron fáciles de usar para resolver problemas.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 26,
+    "enunciado": "Utilicé frecuentemente herramientas de I.A. en esta materia.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 27,
+    "enunciado": "Utilicé herramientas de I.A. en esta materia, para mejorar un texto que yo mismo redacté.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 28,
+    "enunciado": "Con la ayuda de la I.A. utilizada en esta materia, pude ampliar o sintetizar un texto que escribí.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 29,
+    "enunciado": "Usé herramientas de I.A. en esta materia, para evaluar los trabajos que envíe al docente.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 30,
+    "enunciado": "Usé herramientas de I.A. en esta materia, para verificar la pertinencia de la evaluación docente.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 31,
+    "enunciado": "¿Qué herramientas de I.A. utilizaste en esta materia aparte de ChatGPT?",
+    "opciones": []
+  },
+  {
+    "_id": 32,
+    "enunciado": "¿Cuál es tu opinión sobre la importancia en tu formación profesional en el uso de herramientas de I.A. como el ChatGPT y otras que usaste en esta materia?",
+    "opciones": []
+  },
+  {
+    "_id": 33,
+    "enunciado": "El docente explica claramente los conceptos y temas del curso.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 34,
+    "enunciado": "El docente está disponible para consultas fuera del horario de clase.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 35,
+    "enunciado": "El docente utiliza recursos adicionales (como presentaciones, videos, etc.) que enriquecen el aprendizaje.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 36,
+    "enunciado": "El docente fomenta la participación activa de los estudiantes en clase.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 37,
+    "enunciado": "El docente proporciona retroalimentación útil sobre las tareas y exámenes.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 38,
+    "enunciado": "El contenido del curso está bien estructurado y organizado.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 39,
+    "enunciado": "Los objetivos del curso fueron claros desde el inicio.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 40,
+    "enunciado": "La carga de trabajo del curso es adecuada en relación con los créditos asignados.",
+    "opciones": [1, 2, 3, 4]
+  },
+  {
+    "_id": 41,
+    "enunciado": "¿Qué aspectos del curso crees que se pueden mejorar?",
+    "opciones": []
+  },
+  {
+    "_id": 42,
+    "enunciado": "¿Qué opinas sobre la metodología de enseñanza utilizada por el docente?",
+    "opciones": []
+  }
+]
