@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "_id": 1,
     "nombre": "Grupo de Teatro",
     "descripcion": "Un grupo que realiza obras de teatro.",
     "estudiantes": [
@@ -49,7 +49,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 2,
+    "_id": 2,
     "nombre": "Club de Ciencias",
     "descripcion": "Un club para explorar experimentos científicos.",
     "estudiantes": [
@@ -98,7 +98,7 @@
     "categoria": "Cientifica"
   },
   {
-    "id": 3,
+    "_id": 3,
     "nombre": "Equipo de Fútbol",
     "descripcion": "Un equipo que participa en torneos de fútbol.",
     "estudiantes": [
@@ -147,7 +147,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 4,
+    "_id": 4,
     "nombre": "Club de Literatura",
     "descripcion": "Un club para los amantes de la lectura.",
     "estudiantes": [
@@ -196,7 +196,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 5,
+    "_id": 5,
     "nombre": "Grupo de Danza",
     "descripcion": "Un grupo que aprende y presenta diversas danzas.",
     "estudiantes": [
@@ -245,7 +245,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 6,
+    "_id": 6,
     "nombre": "Taller de Arte",
     "descripcion": "Un taller para aprender diversas técnicas artísticas.",
     "estudiantes": [
@@ -294,7 +294,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 7,
+    "_id": 7,
     "nombre": "Club de Ajedrez",
     "descripcion": "Un club para aprender y jugar ajedrez.",
     "estudiantes": [
@@ -343,7 +343,7 @@
     "categoria": "Cientifica"
   },
   {
-    "id": 8,
+    "_id": 8,
     "nombre": "Grupo de Debate",
     "descripcion": "Un grupo para practicar habilidades de debate.",
     "estudiantes": [
@@ -392,7 +392,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 9,
+    "_id": 9,
     "nombre": "Club de Fotografía",
     "descripcion": "Un club para aprender y practicar fotografía.",
     "estudiantes": [
@@ -441,7 +441,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 10,
+    "_id": 10,
     "nombre": "Taller de Música",
     "descripcion": "Un taller para aprender a tocar instrumentos musicales.",
     "estudiantes": [
@@ -490,7 +490,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 11,
+    "_id": 11,
     "nombre": "Spirit Week",
     "descripcion": "Semana de actividades temáticas y concursos de disfraces.",
     "estudiantes": [
@@ -539,7 +539,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 12,
+    "_id": 12,
     "nombre": "Semana de Disfraces",
     "descripcion": "Eventos diarios con diferentes temas de disfraces y competencias.",
     "estudiantes": [
@@ -588,7 +588,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 13,
+    "_id": 13,
     "nombre": "Día D UPB Match",
     "descripcion": "Torneo de competencias académicas y deportivas entre facultades.",
     "estudiantes": [
@@ -637,7 +637,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 14,
+    "_id": 14,
     "nombre": "UPB Riders",
     "descripcion": "Carreras de caballos divertidas organizadas por estudiantes.",
     "estudiantes": [
@@ -686,7 +686,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 15,
+    "_id": 15,
     "nombre": "San Juan Fest",
     "descripcion": "Festival para celebrar el cierre del semestre con comida y música.",
     "estudiantes": [
@@ -735,7 +735,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 16,
+    "_id": 16,
     "nombre": "Día del Deporte",
     "descripcion": "Jornada de actividades deportivas y recreativas.",
     "estudiantes": [
@@ -784,7 +784,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 17,
+    "_id": 17,
     "nombre": "Semana Cultural",
     "descripcion": "Exposiciones y actividades culturales para promover la diversidad.",
     "estudiantes": [
@@ -833,7 +833,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 18,
+    "_id": 18,
     "nombre": "Evento y Charla de Ciencias",
     "descripcion": "Presentación de proyectos científicos y tecnológicos realizados por profesionales externos para el conocimiento de los estudiantes.",
     "estudiantes": [
@@ -882,7 +882,7 @@
     "categoria": "Cientifica"
   },
   {
-    "id": 19,
+    "_id": 19,
     "nombre": "Exposición de Arte",
     "descripcion": "Exposición de obras de arte realizadas por los estudiantes en diversas disciplinas.",
     "estudiantes": [
@@ -931,7 +931,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 20,
+    "_id": 20,
     "nombre": "Festival de Teatro",
     "descripcion": "Presentación de obras de teatro y performances artísticas.",
     "estudiantes": [
@@ -980,7 +980,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 21,
+    "_id": 21,
     "nombre": "Charla Motivacional de Salud",
     "descripcion": "Sesión de charlas motivacionales sobre salud y bienestar.",
     "estudiantes": [
@@ -1029,7 +1029,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 22,
+    "_id": 22,
     "nombre": "Simulación del Congreso de Naciones Unidas",
     "descripcion": "Simulación de un congreso de Naciones Unidas con debates y resoluciones.",
     "estudiantes": [
@@ -1078,7 +1078,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 23,
+    "_id": 23,
     "nombre": "English Talks",
     "descripcion": "Sesiones de conversación en inglés para mejorar las habilidades lingüísticas.",
     "estudiantes": [
@@ -1127,7 +1127,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 24,
+    "_id": 24,
     "nombre": "Feria de Emprendimiento",
     "descripcion": "Exposición de proyectos de emprendimiento desarrollados por estudiantes.",
     "estudiantes": [
@@ -1176,7 +1176,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 25,
+    "_id": 25,
     "nombre": "Taller de Finanzas Personales",
     "descripcion": "Taller sobre la gestión financiera personal y el ahorro.",
     "estudiantes": [
@@ -1225,7 +1225,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 26,
+    "_id": 26,
     "nombre": "Taller de Robótica",
     "descripcion": "Taller práctico de diseño y programación de robots.",
     "estudiantes": [
@@ -1274,7 +1274,7 @@
     "categoria": "Cientifica"
   },
   {
-    "id": 27,
+    "_id": 27,
     "nombre": "Charlas sobre Innovación",
     "descripcion": "Ciclo de charlas sobre innovación y tecnología.",
     "estudiantes": [
@@ -1323,7 +1323,7 @@
     "categoria": "Cientifica"
   },
   {
-    "id": 28,
+    "_id": 28,
     "nombre": "Simulación Empresarial",
     "descripcion": "Simulación de la gestión y operación de una empresa.",
     "estudiantes": [
@@ -1372,7 +1372,7 @@
     "categoria": "Cientifica"
   },
   {
-    "id": 29,
+    "_id": 29,
     "nombre": "Feria de Ciencias",
     "descripcion": "Presentación de proyectos científicos y tecnológicos realizados por estudiantes.",
     "estudiantes": [
@@ -1421,7 +1421,7 @@
     "categoria": "Cientifica"
   },
   {
-    "id": 30,
+    "_id": 30,
     "nombre": "Concurso de Innovación",
     "descripcion": "Competencia entre equipos para presentar ideas innovadoras y proyectos tecnológicos.",
     "estudiantes": [
@@ -1470,7 +1470,7 @@
     "categoria": "Cientifica"
   },
   {
-    "id": 31,
+    "_id": 31,
     "nombre": "Excursión a Salar de Uyuni",
     "descripcion": "Viaje a uno de los mayores desiertos de sal y un destino turístico icónico en Bolivia.",
     "estudiantes": [
@@ -1519,7 +1519,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 32,
+    "_id": 32,
     "nombre": "Visita a Tiwanaku",
     "descripcion": "Exploración de las ruinas arqueológicas de Tiwanaku, un importante sitio de la civilización precolombina.",
     "estudiantes": [
@@ -1568,7 +1568,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 33,
+    "_id": 33,
     "nombre": "Aventura en la Selva Amazónica",
     "descripcion": "Excursión en la selva amazónica boliviana, explorando su rica biodiversidad y cultura.",
     "estudiantes": [
@@ -1617,7 +1617,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 34,
+    "_id": 34,
     "nombre": "Tour por el Lago Titicaca",
     "descripcion": "Visita al lago navegable más alto del mundo y sus islas.",
     "estudiantes": [
@@ -1666,7 +1666,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 35,
+    "_id": 35,
     "nombre": "Excursión al Parque Nacional Madidi",
     "descripcion": "Exploración de uno de los parques nacionales más biodiversos del mundo.",
     "estudiantes": [
@@ -1715,7 +1715,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 36,
+    "_id": 36,
     "nombre": "Visita a Potosí y las minas del Cerro Rico",
     "descripcion": "Tour histórico y cultural por la ciudad de Potosí y sus famosas minas de plata.",
     "estudiantes": [
@@ -1764,7 +1764,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 37,
+    "_id": 37,
     "nombre": "Exploración de la Ruta del Che",
     "descripcion": "Viaje histórico siguiendo los pasos de Che Guevara en Bolivia.",
     "estudiantes": [
@@ -1813,7 +1813,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 38,
+    "_id": 38,
     "nombre": "Tour por Sucre, la capital constitucional",
     "descripcion": "Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",
     "estudiantes": [
@@ -1862,7 +1862,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 39,
+    "_id": 39,
     "nombre": "Excursión a las Misiones Jesuíticas de Chiquitos",
     "descripcion": "Exploración de las misiones jesuíticas, declaradas Patrimonio de la Humanidad.",
     "estudiantes": [
@@ -1911,7 +1911,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 40,
+    "_id": 40,
     "nombre": "Visita al Parque Nacional Noel Kempff Mercado",
     "descripcion": "Excursión al parque nacional conocido por sus impresionantes paisajes y biodiversidad.",
     "estudiantes": [
@@ -1960,7 +1960,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 41,
+    "_id": 41,
     "nombre": "Feria de Empresas y Pasantías",
     "descripcion": "Evento anual para conectar estudiantes con oportunidades de pasantías y empleos.",
     "estudiantes": [
@@ -2009,7 +2009,7 @@
     "categoria": "Académica"
   },
   {
-    "id": 42,
+    "_id": 42,
     "nombre": "Feria de Automóviles",
     "descripcion": "Exposición de los últimos modelos de automóviles y tecnología automotriz.",
     "estudiantes": [
@@ -2058,7 +2058,7 @@
     "categoria": "Académica"
   },
   {
-    "id": 43,
+    "_id": 43,
     "nombre": "UPB Merge - Mentores y Aprendices",
     "descripcion": "Programa de mentoría para conectar a estudiantes nuevos con estudiantes avanzados.",
     "estudiantes": [
@@ -2107,7 +2107,7 @@
     "categoria": "Voluntariado"
   },
   {
-    "id": 44,
+    "_id": 44,
     "nombre": "UPB Match - Competencias de Ping Pong",
     "descripcion": "Torneo de ping pong abierto a todos los estudiantes.",
     "estudiantes": [
@@ -2156,7 +2156,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 45,
+    "_id": 45,
     "nombre": "UPB Match - Competencias de Básquetbol",
     "descripcion": "Torneo de básquetbol entre equipos de estudiantes.",
     "estudiantes": [
@@ -2205,7 +2205,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 46,
+    "_id": 46,
     "nombre": "UPB Match - Competencias de Voleibol",
     "descripcion": "Torneo de voleibol entre equipos de estudiantes.",
     "estudiantes": [
@@ -2254,7 +2254,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 47,
+    "_id": 47,
     "nombre": "Festival Folklórico",
     "descripcion": "Celebración de las tradiciones y danzas folklóricas bolivianas.",
     "estudiantes": [
@@ -2303,7 +2303,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 48,
+    "_id": 48,
     "nombre": "Festival de San Valentín",
     "descripcion": "Evento para celebrar el día de San Valentín con actividades y juegos.",
     "estudiantes": [
@@ -2352,7 +2352,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 49,
+    "_id": 49,
     "nombre": "Festival del Día de la Madre",
     "descripcion": "Celebración especial para honrar a las madres.",
     "estudiantes": [
@@ -2389,7 +2389,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 50,
+    "_id": 50,
     "nombre": "Festival del Día del Padre",
     "descripcion": "Celebración especial para honrar a los padres.",
     "estudiantes": [
@@ -2426,7 +2426,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 51,
+    "_id": 51,
     "nombre": "Torneo de Ajedrez",
     "descripcion": "Competencia de ajedrez para estudiantes de todos los niveles.",
     "estudiantes": [
@@ -2455,7 +2455,7 @@
     "categoria": "Deportiva"
   },
   {
-    "id": 52,
+    "_id": 52,
     "nombre": "Caminata Ecológica",
     "descripcion": "Excursión para conocer y preservar el medio ambiente.",
     "estudiantes": [
@@ -2484,7 +2484,7 @@
     "categoria": "Voluntariado"
   },
   {
-    "id": 53,
+    "_id": 53,
     "nombre": "Hackathon UPB",
     "descripcion": "Maratón de programación para resolver problemas reales.",
     "estudiantes": [
@@ -2513,7 +2513,7 @@
     "categoria": "Académica"
   },
   {
-    "id": 54,
+    "_id": 54,
     "nombre": "Taller de Fotografía",
     "descripcion": "Aprender técnicas básicas y avanzadas de fotografía.",
     "estudiantes": [
@@ -2542,7 +2542,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 55,
+    "_id": 55,
     "nombre": "Concurso de Pintura",
     "descripcion": "Competencia artística para estudiantes con talento en pintura.",
     "estudiantes": [
@@ -2571,7 +2571,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 56,
+    "_id": 56,
     "nombre": "Feria Gastronómica",
     "descripcion": "Evento para degustar y promover la gastronomía local.",
     "estudiantes": [
@@ -2600,7 +2600,7 @@
     "categoria": "Cultural"
   },
   {
-    "id": 57,
+    "_id": 57,
     "nombre": "Seminario de Innovación",
     "descripcion": "Conferencias y talleres sobre innovación tecnológica.",
     "estudiantes": [

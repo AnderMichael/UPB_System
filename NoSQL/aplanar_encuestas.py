@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Cargar el archivo JSON de encuestas
-json_file_path = 'NoSQL/encuestas.json'  # Cambia esto por la ruta correcta a tu archivo JSON
+json_file_path = 'NoSQL/encuestas_def.json'  # Cambia esto por la ruta correcta a tu archivo JSON
 with open(json_file_path, 'r') as file:
     encuestas = json.load(file)
 
@@ -11,7 +11,7 @@ encuestas_aplanadas = []
 
 for encuesta in encuestas:
     encuesta_base = {
-        "encuesta_id": encuesta["id"],
+        "encuesta_id": encuesta["_id"],
         "estudiante_id": encuesta["estudiante"]["id_est"],
         "estudiante_nombre": encuesta["estudiante"]["nombre"],
         "id_profesor": encuesta["id_profesor"],
@@ -19,14 +19,15 @@ for encuesta in encuestas:
         "fecha": encuesta["fecha"]
     }
     for pregunta in encuesta["preguntas"]:
-        encuesta_detalle = {
-            "pregunta_id": pregunta["id"],
-            "enunciado": pregunta["enunciado"],
-            "respuesta": pregunta["respuesta"]
-        }
-        # Combinar los datos base de la encuesta con los detalles de cada pregunta
-        encuesta_completa = {**encuesta_base, **encuesta_detalle}
-        encuestas_aplanadas.append(encuesta_completa)
+        if type(pregunta["respuesta"]) != str:
+            encuesta_detalle = {
+                "pregunta_id": pregunta["id"],
+                "enunciado": pregunta["enunciado"],
+                "respuesta": pregunta["respuesta"]
+            }
+            # Combinar los datos base de la encuesta con los detalles de cada pregunta
+            encuesta_completa = {**encuesta_base, **encuesta_detalle}
+            encuestas_aplanadas.append(encuesta_completa)
 
 # Convertir los datos a un DataFrame de pandas
 df_encuestas = pd.DataFrame(encuestas_aplanadas)

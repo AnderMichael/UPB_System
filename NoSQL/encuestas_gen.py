@@ -38,7 +38,7 @@ def generar_encuestas(num_encuestas):
     for i in range(1, num_encuestas + 1):
         estudiante = random.choice(estudiantes)
         encuesta = {
-            "id": i,
+            "_id": i,
             "estudiante": {
                 "nombre": estudiante["nombre"],
                 "id_est": estudiante["id_est"]
@@ -68,7 +68,7 @@ num_encuestas = 100  # Cambia esto por el número de encuestas que deseas genera
 encuestas_generadas = generar_encuestas(num_encuestas)
 
 # Guardar encuestas en un archivo JSON
-with open('NoSQL/encuestas.json', 'w') as json_file:
+with open('NoSQL/encuestas_def.json', 'w') as json_file:
     json.dump(encuestas_generadas, json_file, indent=4, ensure_ascii=False)
 
 print(f'Se han generado y guardado {num_encuestas} encuestas en encuestas.json')
