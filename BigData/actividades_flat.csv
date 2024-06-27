@@ -1,530 +1,530 @@
-actividad_id,actividad_nombre,actividad_descripcion,actividad_fecha,estudiante_nombre,estudiante_id
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Jorge Morales,1
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Marta Sanchez,4
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Carlos Ortega,7
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Miguel Perez,10
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Carlos Ortega,13
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Ana Suarez,16
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Roberto Perez,19
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Maria Suarez,22
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Miguel Suarez,25
-1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Maria Gonzalez,28
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Roberto Sanchez,2
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Maria Mendoza,5
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Marta Perez,8
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Isabel Vargas,11
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Lucia Sanchez,14
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Roberto Martinez,17
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Angela Castro,20
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Juan Rojas,23
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Pedro Fernandez,26
-2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Isabel Hernandez,29
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Andres Mendoza,3
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Juan Garcia,6
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Marta Gonzalez,9
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Andres Morales,12
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Carmen Sanchez,15
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Roberto Mendoza,18
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,David Mendoza,21
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Maria Navarro,24
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Pedro Ramirez,27
-3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Laura Ortega,30
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Elena Fernandez,31
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Jose Morales,34
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Jorge Morales,37
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,David Rojas,40
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Roberto Fernandez,43
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Angela Castro,46
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Ana Vargas,49
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Maria Rodriguez,52
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Jorge Vargas,55
-4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Ana Martinez,58
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Pedro Ortega,32
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Juan Perez,35
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,David Morales,38
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Elena Vargas,41
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Ana Navarro,44
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Carmen Vargas,47
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Juan Morales,50
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Marta Castro,53
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Pedro Perez,56
-5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Carlos Rojas,59
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Laura Rojas,33
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Carlos Romero,36
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Lucia Romero,39
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Andres Ramirez,42
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Lucia Hernandez,45
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Maria Rodriguez,48
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Jose Lopez,51
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Elena Mendoza,54
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Laura Hernandez,57
-6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Miguel Sanchez,60
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,David Rodriguez,61
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Laura Navarro,64
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Ana Hernandez,67
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Roberto Ortega,70
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Roberto Suarez,73
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Jorge Garcia,76
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Pedro Suarez,79
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Miguel Garcia,82
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Maria Navarro,85
-7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Ana Vargas,88
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Jose Fernandez,62
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Marta Sanchez,65
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Ana Lopez,68
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Pedro Gonzalez,71
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Angela Navarro,74
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Luis Suarez,77
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Maria Romero,80
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Roberto Morales,83
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Miguel Rojas,86
-8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Juan Sanchez,89
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Roberto Mendoza,63
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Jorge Navarro,66
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Carmen Ortega,69
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Jose Ramirez,72
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Carlos Fernandez,75
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,David Rodriguez,78
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Lucia Fernandez,81
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Angela Morales,84
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Jorge Rodriguez,87
-9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Elena Sanchez,90
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Luis Martinez,91
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Ana Ortega,94
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Lucia Suarez,97
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Isabel Ramirez,100
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Lucia Perez,103
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Laura Reyes,106
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Jorge Garcia,109
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Angela Lopez,112
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Roberto Reyes,115
-10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Ana Garcia,118
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Miguel Perez,92
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Laura Romero,95
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Roberto Suarez,98
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Jose Mendoza,101
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Carmen Rodriguez,104
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Andres Mendoza,107
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Ana Suarez,110
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Luis Ortega,113
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Miguel Hernandez,116
-11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,David Rodriguez,119
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Sofia Navarro,93
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Lucia Rodriguez,96
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Carmen Vargas,99
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Sofia Rojas,102
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Carlos Hernandez,105
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Roberto Rodriguez,108
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Sofia Castro,111
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Lucia Lopez,114
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Lucia Martinez,117
-12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Elena Mendoza,120
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Carlos Reyes,121
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Ana Mendoza,124
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Juan Rodriguez,127
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,David Rodriguez,130
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Carlos Gonzalez,133
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Maria Navarro,136
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Andres Perez,139
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Andres Perez,142
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Sofia Mendoza,145
-13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Elena Rojas,148
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Jorge Vargas,122
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Juan Vargas,125
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Elena Ortega,128
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Carmen Lopez,131
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Andres Rodriguez,134
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Luis Sanchez,137
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Angela Lopez,140
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Carlos Rojas,143
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Carmen Rodriguez,146
-14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Ana Suarez,149
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Jorge Ramirez,123
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Isabel Fernandez,126
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Luis Reyes,129
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Sofia Romero,132
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Jorge Rojas,135
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Miguel Suarez,138
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Juan Rojas,141
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Jose Sanchez,144
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,David Morales,147
-15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Elena Ortega,150
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Luis Hernandez,151
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Marta Gonzalez,154
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Laura Perez,157
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Maria Mendoza,160
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Sofia Rojas,163
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Angela Vargas,166
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Roberto Martinez,169
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Carmen Martinez,172
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Juan Ramirez,175
-16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Jorge Lopez,178
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Andres Morales,152
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Angela Suarez,155
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Miguel Romero,158
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Jorge Vargas,161
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Andres Fernandez,164
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Elena Garcia,167
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Isabel Martinez,170
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Laura Suarez,173
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Laura Reyes,176
-17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Carmen Vargas,179
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Jorge Morales,153
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Carmen Vargas,156
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Isabel Lopez,159
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Isabel Fernandez,162
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Marta Ramirez,165
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Juan Suarez,168
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Laura Morales,171
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Sofia Hernandez,174
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Pedro Romero,177
-18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Luis Ortega,180
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Luis Rojas,181
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Andres Hernandez,184
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Pedro Rojas,187
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Andres Suarez,190
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Luis Vargas,193
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Juan Reyes,196
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Andres Reyes,199
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Angela Navarro,202
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Roberto Morales,205
-19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Carmen Martinez,208
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Andres Perez,182
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Isabel Rodriguez,185
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Elena Navarro,188
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Elena Garcia,191
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Elena Navarro,194
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Miguel Perez,197
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Carmen Fernandez,200
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Ana Romero,203
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Elena Romero,206
-20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Maria Mendoza,209
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Carlos Rojas,183
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Maria Rodriguez,186
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Lucia Garcia,189
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Laura Ortega,192
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Maria Perez,195
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Andres Fernandez,198
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Luis Romero,201
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Sofia Castro,204
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Elena Gonzalez,207
-21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Ana Mendoza,210
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Juan Fernandez,211
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Andres Reyes,214
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Andres Ramirez,217
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Angela Fernandez,220
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Jorge Fernandez,223
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Carlos Ortega,226
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Lucia Perez,229
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Isabel Hernandez,232
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Jose Hernandez,235
-22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Isabel Perez,238
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Luis Vargas,212
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Lucia Suarez,215
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Luis Gonzalez,218
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Luis Fernandez,221
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Luis Castro,224
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Pedro Garcia,227
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Laura Vargas,230
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Angela Martinez,233
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Sofia Reyes,236
-23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Pedro Suarez,239
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Luis Gonzalez,213
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Miguel Mendoza,216
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Carlos Rojas,219
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Sofia Vargas,222
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Isabel Reyes,225
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Roberto Martinez,228
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Lucia Ortega,231
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Juan Rojas,234
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Carlos Suarez,237
-24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Carlos Navarro,240
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Sofia Fernandez,241
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Carlos Garcia,244
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Elena Vargas,247
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Luis Vargas,250
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Juan Gonzalez,253
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Lucia Fernandez,256
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Carlos Rodriguez,259
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Miguel Lopez,262
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Laura Fernandez,265
-25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Roberto Lopez,268
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Luis Romero,242
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Laura Rodriguez,245
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Laura Rojas,248
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Elena Garcia,251
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,David Sanchez,254
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Isabel Rojas,257
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Lucia Rodriguez,260
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Jose Suarez,263
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Elena Lopez,266
-26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Jose Sanchez,269
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,David Ramirez,243
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Sofia Garcia,246
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Laura Ramirez,249
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Lucia Sanchez,252
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Carmen Castro,255
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Juan Morales,258
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Luis Rojas,261
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Carlos Navarro,264
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,David Perez,267
-27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Luis Mendoza,270
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Marta Castro,271
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Jorge Garcia,274
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Lucia Suarez,277
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Roberto Morales,280
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,David Rodriguez,283
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Maria Lopez,286
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Jose Martinez,289
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Angela Mendoza,292
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Elena Martinez,295
-28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Carmen Hernandez,298
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Laura Romero,272
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Pedro Gonzalez,275
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Ana Sanchez,278
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Miguel Rojas,281
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Luis Suarez,284
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Maria Vargas,287
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,David Perez,290
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Carlos Ortiz,293
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Elena Rojas,296
-29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Roberto Fernandez,299
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Miguel Ortiz,273
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Ana Fernandez,276
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Carlos Martinez,279
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Laura Suarez,282
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Jose Hernandez,285
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Sofia Rodriguez,288
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Juan Garcia,291
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Luis Perez,294
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Angela Lopez,297
-30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,David Sanchez,300
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Carmen Fernandez,301
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Maria Rodriguez,304
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Marta Garcia,307
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Maria Morales,310
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Laura Castro,313
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Roberto Garcia,316
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Sofia Mendoza,319
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Isabel Suarez,322
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Juan Navarro,325
-31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Carmen Lopez,328
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Lucia Lopez,302
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Luis Romero,305
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Angela Ramirez,308
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Jose Rodriguez,311
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Laura Morales,314
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Jorge Rojas,317
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Jose Rojas,320
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Lucia Suarez,323
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Laura Hernandez,326
-32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Juan Rodriguez,329
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Carmen Lopez,303
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Carlos Navarro,306
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Juan Gonzalez,309
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Lucia Navarro,312
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Maria Gonzalez,315
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Angela Suarez,318
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Ana Ramirez,321
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Miguel Lopez,324
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Marta Romero,327
-33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Elena Mendoza,330
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Andres Lopez,331
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Isabel Ramirez,334
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Roberto Fernandez,337
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Marta Garcia,340
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Elena Perez,343
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Isabel Hernandez,346
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Sofia Martinez,349
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Sofia Gonzalez,352
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Ana Gonzalez,355
-34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Isabel Reyes,358
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Elena Rodriguez,332
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Jorge Vargas,335
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Carlos Rojas,338
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Isabel Martinez,341
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Ana Martinez,344
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,David Rodriguez,347
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,David Morales,350
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Elena Garcia,353
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Sofia Sanchez,356
-35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Angela Gonzalez,359
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Isabel Rojas,333
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Jorge Martinez,336
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Marta Vargas,339
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Angela Rodriguez,342
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Luis Navarro,345
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Jose Castro,348
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Elena Lopez,351
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,David Fernandez,354
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Miguel Mendoza,357
-36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2019-07-25,Lucia Perez,360
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Lucia Garcia,361
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Ana Vargas,364
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Carlos Lopez,367
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Ana Perez,370
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Angela Lopez,373
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Sofia Martinez,376
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Luis Sanchez,379
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Ana Romero,382
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Luis Fernandez,385
-37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Carmen Garcia,388
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Carlos Martinez,362
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Carmen Morales,365
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Laura Navarro,368
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Laura Castro,371
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Angela Hernandez,374
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Isabel Rodriguez,377
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Miguel Garcia,380
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Jorge Martinez,383
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Laura Morales,386
-38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Angela Ramirez,389
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Ana Romero,363
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Luis Romero,366
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Jorge Perez,369
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Laura Rojas,372
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Juan Mendoza,375
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Lucia Gonzalez,378
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Maria Suarez,381
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Jose Romero,384
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Isabel Martinez,387
-39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Lucia Ortega,390
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Andres Rodriguez,391
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Elena Sanchez,394
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,David Perez,397
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Laura Garcia,400
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Jose Lopez,403
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Miguel Sanchez,406
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Roberto Lopez,409
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Ana Hernandez,412
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,David Ortega,415
-40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Lucia Reyes,418
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Maria Lopez,392
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Carlos Garcia,395
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Andres Fernandez,398
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Miguel Mendoza,401
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Isabel Gonzalez,404
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Isabel Suarez,407
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Miguel Vargas,410
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Angela Martinez,413
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Carmen Hernandez,416
-41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Marta Hernandez,419
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Andres Hernandez,393
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Sofia Rodriguez,396
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Miguel Suarez,399
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Carmen Sanchez,402
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Elena Garcia,405
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Isabel Morales,408
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Ana Mendoza,411
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Roberto Perez,414
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Lucia Martinez,417
-42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Ana Ortega,420
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Pedro Mendoza,421
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Sofia Lopez,424
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Luis Fernandez,427
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Sofia Fernandez,430
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Roberto Suarez,433
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Andres Rodriguez,436
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Sofia Lopez,439
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Lucia Fernandez,442
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Juan Morales,445
-43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Andres Romero,448
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Pedro Castro,422
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Laura Gonzalez,425
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Lucia Romero,428
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Sofia Morales,431
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Carlos Romero,434
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Carlos Fernandez,437
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Luis Martinez,440
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Ana Perez,443
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Elena Lopez,446
-44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Angela Reyes,449
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Jose Garcia,423
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Maria Rojas,426
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Luis Rodriguez,429
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Maria Martinez,432
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Carlos Fernandez,435
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Andres Gonzalez,438
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Luis Gonzalez,441
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Marta Hernandez,444
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Lucia Navarro,447
-45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Isabel Romero,450
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Juan Navarro,451
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Jorge Martinez,454
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Lucia Castro,457
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Andres Castro,460
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Maria Martinez,463
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Marta Reyes,466
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Lucia Rodriguez,469
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Sofia Hernandez,472
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Isabel Sanchez,475
-46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Jose Ortega,478
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Marta Ortega,452
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Luis Vargas,455
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Jose Sanchez,458
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Elena Rojas,461
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Marta Ramirez,464
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Isabel Rojas,467
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Miguel Romero,470
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Angela Reyes,473
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Miguel Romero,476
-47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Elena Garcia,479
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Laura Navarro,453
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Carmen Perez,456
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Carmen Navarro,459
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,David Sanchez,462
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Sofia Garcia,465
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Jose Morales,468
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Juan Rodriguez,471
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Pedro Fernandez,474
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Carmen Reyes,477
-48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Roberto Martinez,480
-49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Luis Perez,481
-49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Marta Lopez,484
-49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Ana Rojas,487
-49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,David Perez,490
-49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Sofia Reyes,493
-49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,David Mendoza,496
-49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Maria Ramirez,499
-50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Maria Rodriguez,482
-50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Ana Navarro,485
-50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Pedro Mendoza,488
-50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Elena Garcia,491
-50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Ana Gonzalez,494
-50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Ana Castro,497
-50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,David Perez,500
-51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Miguel Perez,10
-51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Laura Rojas,30
-51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Isabel Vargas,11
-51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Marta Sanchez,4
-51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Carlos Ortega,7
-52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Miguel Perez,10
-52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Roberto Sanchez,2
-52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Andres Mendoza,3
-52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Juan Garcia,6
-52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Maria Mendoza,5
-53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,Miguel Perez,10
-53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,Ana Suarez,16
-53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,Roberto Mendoza,18
-53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,David Mendoza,21
-53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,Marta Gonzalez,9
-54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Miguel Perez,10
-54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Laura Ortega,30
-54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Roberto Fernandez,43
-54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Ana Navarro,44
-54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Lucia Sanchez,14
-55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Miguel Perez,10
-55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Jorge Morales,1
-55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Andres Morales,12
-55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Marta Perez,8
-55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Carmen Vargas,15
-56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Miguel Perez,10
-56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Carlos Ortega,7
-56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Marta Gonzalez,9
-56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Roberto Mendoza,18
-56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Andres Mendoza,3
-57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,Miguel Perez,10
-57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,Maria Mendoza,5
-57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,Juan Garcia,6
-57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,Ana Suarez,16
-57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,David Mendoza,21
+actividad_id,actividad_nombre,actividad_descripcion,actividad_fecha,estudiante_nombre,estudiante_id,categoria
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Jorge Morales,1,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Marta Sanchez,4,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Carlos Ortega,7,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Miguel Perez,10,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Carlos Ortega,13,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Ana Suarez,16,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Roberto Perez,19,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Maria Suarez,22,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Miguel Suarez,25,Cultural
+1,Grupo de Teatro,Un grupo que realiza obras de teatro.,2024-06-22,Maria Gonzalez,28,Cultural
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Roberto Sanchez,2,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Maria Mendoza,5,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Marta Perez,8,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Isabel Vargas,11,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Lucia Sanchez,14,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Roberto Martinez,17,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Angela Castro,20,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Juan Rojas,23,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Pedro Fernandez,26,Cientifica
+2,Club de Ciencias,Un club para explorar experimentos cientÃ­ficos.,2024-06-22,Isabel Hernandez,29,Cientifica
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Andres Mendoza,3,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Juan Garcia,6,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Marta Gonzalez,9,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Andres Morales,12,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Carmen Sanchez,15,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Roberto Mendoza,18,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,David Mendoza,21,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Maria Navarro,24,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Pedro Ramirez,27,Deportiva
+3,Equipo de FÃºtbol,Un equipo que participa en torneos de fÃºtbol.,2024-06-22,Laura Ortega,30,Deportiva
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Elena Fernandez,31,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Jose Morales,34,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Jorge Morales,37,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,David Rojas,40,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Roberto Fernandez,43,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Angela Castro,46,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Ana Vargas,49,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Maria Rodriguez,52,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Jorge Vargas,55,Cultural
+4,Club de Literatura,Un club para los amantes de la lectura.,2024-06-22,Ana Martinez,58,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Pedro Ortega,32,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Juan Perez,35,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,David Morales,38,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Elena Vargas,41,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Ana Navarro,44,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Carmen Vargas,47,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Juan Morales,50,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Marta Castro,53,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Pedro Perez,56,Cultural
+5,Grupo de Danza,Un grupo que aprende y presenta diversas danzas.,2024-06-22,Carlos Rojas,59,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Laura Rojas,33,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Carlos Romero,36,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Lucia Romero,39,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Andres Ramirez,42,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Lucia Hernandez,45,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Maria Rodriguez,48,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Jose Lopez,51,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Elena Mendoza,54,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Laura Hernandez,57,Cultural
+6,Taller de Arte,Un taller para aprender diversas tÃ©cnicas artÃ­sticas.,2024-06-22,Miguel Sanchez,60,Cultural
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,David Rodriguez,61,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Laura Navarro,64,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Ana Hernandez,67,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Roberto Ortega,70,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Roberto Suarez,73,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Jorge Garcia,76,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Pedro Suarez,79,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Miguel Garcia,82,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Maria Navarro,85,Cientifica
+7,Club de Ajedrez,Un club para aprender y jugar ajedrez.,2024-06-22,Ana Vargas,88,Cientifica
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Jose Fernandez,62,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Marta Sanchez,65,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Ana Lopez,68,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Pedro Gonzalez,71,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Angela Navarro,74,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Luis Suarez,77,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Maria Romero,80,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Roberto Morales,83,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Miguel Rojas,86,Cultural
+8,Grupo de Debate,Un grupo para practicar habilidades de debate.,2024-06-22,Juan Sanchez,89,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Roberto Mendoza,63,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Jorge Navarro,66,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Carmen Ortega,69,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Jose Ramirez,72,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Carlos Fernandez,75,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,David Rodriguez,78,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Lucia Fernandez,81,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Angela Morales,84,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Jorge Rodriguez,87,Cultural
+9,Club de FotografÃ­a,Un club para aprender y practicar fotografÃ­a.,2024-06-22,Elena Sanchez,90,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Luis Martinez,91,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Ana Ortega,94,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Lucia Suarez,97,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Isabel Ramirez,100,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Lucia Perez,103,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Laura Reyes,106,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Jorge Garcia,109,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Angela Lopez,112,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Roberto Reyes,115,Cultural
+10,Taller de MÃºsica,Un taller para aprender a tocar instrumentos musicales.,2024-06-22,Ana Garcia,118,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Miguel Perez,92,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Laura Romero,95,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Roberto Suarez,98,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Jose Mendoza,101,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Carmen Rodriguez,104,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Andres Mendoza,107,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Ana Suarez,110,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Luis Ortega,113,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,Miguel Hernandez,116,Cultural
+11,Spirit Week,Semana de actividades temÃ¡ticas y concursos de disfraces.,2024-06-15,David Rodriguez,119,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Sofia Navarro,93,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Lucia Rodriguez,96,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Carmen Vargas,99,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Sofia Rojas,102,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Carlos Hernandez,105,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Roberto Rodriguez,108,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Sofia Castro,111,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Lucia Lopez,114,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Lucia Martinez,117,Cultural
+12,Semana de Disfraces,Eventos diarios con diferentes temas de disfraces y competencias.,2024-06-20,Elena Mendoza,120,Cultural
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Carlos Reyes,121,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Ana Mendoza,124,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Juan Rodriguez,127,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,David Rodriguez,130,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Carlos Gonzalez,133,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Maria Navarro,136,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Andres Perez,139,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Andres Perez,142,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Sofia Mendoza,145,Deportiva
+13,DÃ­a D UPB Match,Torneo de competencias acadÃ©micas y deportivas entre facultades.,2024-06-18,Elena Rojas,148,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Jorge Vargas,122,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Juan Vargas,125,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Elena Ortega,128,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Carmen Lopez,131,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Andres Rodriguez,134,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Luis Sanchez,137,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Angela Lopez,140,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Carlos Rojas,143,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Carmen Rodriguez,146,Deportiva
+14,UPB Riders,Carreras de caballos divertidas organizadas por estudiantes.,2024-06-25,Ana Suarez,149,Deportiva
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Jorge Ramirez,123,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Isabel Fernandez,126,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Luis Reyes,129,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Sofia Romero,132,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Jorge Rojas,135,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Miguel Suarez,138,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Juan Rojas,141,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Jose Sanchez,144,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,David Morales,147,Cultural
+15,San Juan Fest,Festival para celebrar el cierre del semestre con comida y mÃºsica.,2024-06-22,Elena Ortega,150,Cultural
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Luis Hernandez,151,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Marta Gonzalez,154,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Laura Perez,157,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Maria Mendoza,160,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Sofia Rojas,163,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Angela Vargas,166,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Roberto Martinez,169,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Carmen Martinez,172,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Juan Ramirez,175,Deportiva
+16,DÃ­a del Deporte,Jornada de actividades deportivas y recreativas.,2024-07-01,Jorge Lopez,178,Deportiva
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Andres Morales,152,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Angela Suarez,155,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Miguel Romero,158,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Jorge Vargas,161,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Andres Fernandez,164,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Elena Garcia,167,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Isabel Martinez,170,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Laura Suarez,173,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Laura Reyes,176,Cultural
+17,Semana Cultural,Exposiciones y actividades culturales para promover la diversidad.,2024-06-27,Carmen Vargas,179,Cultural
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Jorge Morales,153,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Carmen Vargas,156,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Isabel Lopez,159,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Isabel Fernandez,162,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Marta Ramirez,165,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Juan Suarez,168,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Laura Morales,171,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Sofia Hernandez,174,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Pedro Romero,177,Cientifica
+18,Evento y Charla de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por profesionales externos para el conocimiento de los estudiantes.,2024-06-30,Luis Ortega,180,Cientifica
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Luis Rojas,181,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Andres Hernandez,184,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Pedro Rojas,187,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Andres Suarez,190,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Luis Vargas,193,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Juan Reyes,196,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Andres Reyes,199,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Angela Navarro,202,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Roberto Morales,205,Cultural
+19,ExposiciÃ³n de Arte,ExposiciÃ³n de obras de arte realizadas por los estudiantes en diversas disciplinas.,2024-07-05,Carmen Martinez,208,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Andres Perez,182,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Isabel Rodriguez,185,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Elena Navarro,188,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Elena Garcia,191,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Elena Navarro,194,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Miguel Perez,197,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Carmen Fernandez,200,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Ana Romero,203,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Elena Romero,206,Cultural
+20,Festival de Teatro,PresentaciÃ³n de obras de teatro y performances artÃ­sticas.,2024-07-10,Maria Mendoza,209,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Carlos Rojas,183,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Maria Rodriguez,186,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Lucia Garcia,189,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Laura Ortega,192,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Maria Perez,195,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Andres Fernandez,198,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Luis Romero,201,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Sofia Castro,204,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Elena Gonzalez,207,Cultural
+21,Charla Motivacional de Salud,SesiÃ³n de charlas motivacionales sobre salud y bienestar.,2024-08-02,Ana Mendoza,210,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Juan Fernandez,211,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Andres Reyes,214,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Andres Ramirez,217,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Angela Fernandez,220,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Jorge Fernandez,223,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Carlos Ortega,226,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Lucia Perez,229,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Isabel Hernandez,232,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Jose Hernandez,235,Cultural
+22,SimulaciÃ³n del Congreso de Naciones Unidas,SimulaciÃ³n de un congreso de Naciones Unidas con debates y resoluciones.,2024-08-09,Isabel Perez,238,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Luis Vargas,212,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Lucia Suarez,215,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Luis Gonzalez,218,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Luis Fernandez,221,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Luis Castro,224,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Pedro Garcia,227,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Laura Vargas,230,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Angela Martinez,233,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Sofia Reyes,236,Cultural
+23,English Talks,Sesiones de conversaciÃ³n en inglÃ©s para mejorar las habilidades lingÃ¼Ã­sticas.,2024-08-15,Pedro Suarez,239,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Luis Gonzalez,213,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Miguel Mendoza,216,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Carlos Rojas,219,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Sofia Vargas,222,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Isabel Reyes,225,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Roberto Martinez,228,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Lucia Ortega,231,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Juan Rojas,234,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Carlos Suarez,237,Cultural
+24,Feria de Emprendimiento,ExposiciÃ³n de proyectos de emprendimiento desarrollados por estudiantes.,2024-08-20,Carlos Navarro,240,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Sofia Fernandez,241,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Carlos Garcia,244,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Elena Vargas,247,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Luis Vargas,250,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Juan Gonzalez,253,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Lucia Fernandez,256,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Carlos Rodriguez,259,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Miguel Lopez,262,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Laura Fernandez,265,Cultural
+25,Taller de Finanzas Personales,Taller sobre la gestiÃ³n financiera personal y el ahorro.,2024-08-25,Roberto Lopez,268,Cultural
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Luis Romero,242,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Laura Rodriguez,245,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Laura Rojas,248,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Elena Garcia,251,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,David Sanchez,254,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Isabel Rojas,257,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Lucia Rodriguez,260,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Jose Suarez,263,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Elena Lopez,266,Cientifica
+26,Taller de RobÃ³tica,Taller prÃ¡ctico de diseÃ±o y programaciÃ³n de robots.,2024-08-30,Jose Sanchez,269,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,David Ramirez,243,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Sofia Garcia,246,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Laura Ramirez,249,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Lucia Sanchez,252,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Carmen Castro,255,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Juan Morales,258,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Luis Rojas,261,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Carlos Navarro,264,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,David Perez,267,Cientifica
+27,Charlas sobre InnovaciÃ³n,Ciclo de charlas sobre innovaciÃ³n y tecnologÃ­a.,2024-09-05,Luis Mendoza,270,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Marta Castro,271,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Jorge Garcia,274,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Lucia Suarez,277,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Roberto Morales,280,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,David Rodriguez,283,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Maria Lopez,286,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Jose Martinez,289,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Angela Mendoza,292,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Elena Martinez,295,Cientifica
+28,SimulaciÃ³n Empresarial,SimulaciÃ³n de la gestiÃ³n y operaciÃ³n de una empresa.,2024-09-10,Carmen Hernandez,298,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Laura Romero,272,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Pedro Gonzalez,275,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Ana Sanchez,278,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Miguel Rojas,281,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Luis Suarez,284,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Maria Vargas,287,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,David Perez,290,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Carlos Ortiz,293,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Elena Rojas,296,Cientifica
+29,Feria de Ciencias,PresentaciÃ³n de proyectos cientÃ­ficos y tecnolÃ³gicos realizados por estudiantes.,2024-09-15,Roberto Fernandez,299,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Miguel Ortiz,273,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Ana Fernandez,276,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Carlos Martinez,279,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Laura Suarez,282,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Jose Hernandez,285,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Sofia Rodriguez,288,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Juan Garcia,291,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Luis Perez,294,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,Angela Lopez,297,Cientifica
+30,Concurso de InnovaciÃ³n,Competencia entre equipos para presentar ideas innovadoras y proyectos tecnolÃ³gicos.,2024-09-20,David Sanchez,300,Cientifica
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Carmen Fernandez,301,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Maria Rodriguez,304,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Marta Garcia,307,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Maria Morales,310,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Laura Castro,313,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Roberto Garcia,316,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Sofia Mendoza,319,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Isabel Suarez,322,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Juan Navarro,325,Cultural
+31,ExcursiÃ³n a Salar de Uyuni,Viaje a uno de los mayores desiertos de sal y un destino turÃ­stico icÃ³nico en Bolivia.,2019-08-15,Carmen Lopez,328,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Lucia Lopez,302,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Luis Romero,305,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Angela Ramirez,308,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Jose Rodriguez,311,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Laura Morales,314,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Jorge Rojas,317,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Jose Rojas,320,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Lucia Suarez,323,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Laura Hernandez,326,Cultural
+32,Visita a Tiwanaku,"ExploraciÃ³n de las ruinas arqueolÃ³gicas de Tiwanaku, un importante sitio de la civilizaciÃ³n precolombina.",2020-03-22,Juan Rodriguez,329,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Carmen Lopez,303,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Carlos Navarro,306,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Juan Gonzalez,309,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Lucia Navarro,312,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Maria Gonzalez,315,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Angela Suarez,318,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Ana Ramirez,321,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Miguel Lopez,324,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Marta Romero,327,Cultural
+33,Aventura en la Selva AmazÃ³nica,"ExcursiÃ³n en la selva amazÃ³nica boliviana, explorando su rica biodiversidad y cultura.",2018-11-10,Elena Mendoza,330,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Andres Lopez,331,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Isabel Ramirez,334,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Roberto Fernandez,337,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Marta Garcia,340,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Elena Perez,343,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Isabel Hernandez,346,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Sofia Martinez,349,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Sofia Gonzalez,352,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Ana Gonzalez,355,Cultural
+34,Tour por el Lago Titicaca,Visita al lago navegable mÃ¡s alto del mundo y sus islas.,2021-06-05,Isabel Reyes,358,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Elena Rodriguez,332,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Jorge Vargas,335,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Carlos Rojas,338,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Isabel Martinez,341,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Ana Martinez,344,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,David Rodriguez,347,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,David Morales,350,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Elena Garcia,353,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Sofia Sanchez,356,Cultural
+35,ExcursiÃ³n al Parque Nacional Madidi,ExploraciÃ³n de uno de los parques nacionales mÃ¡s biodiversos del mundo.,2022-01-18,Angela Gonzalez,359,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Isabel Rojas,333,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Jorge Martinez,336,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Marta Vargas,339,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Angela Rodriguez,342,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Luis Navarro,345,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Jose Castro,348,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Elena Lopez,351,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Luis Castro,354,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Sofia Perez,357,Cultural
+36,Visita a PotosÃ­ y las minas del Cerro Rico,Tour histÃ³rico y cultural por la ciudad de PotosÃ­ y sus famosas minas de plata.,2023-03-05,Elena Vargas,360,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Lucia Garcia,361,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Ana Vargas,364,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Carlos Lopez,367,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Ana Perez,370,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Angela Lopez,373,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Sofia Martinez,376,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Luis Sanchez,379,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Ana Romero,382,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Luis Fernandez,385,Cultural
+37,ExploraciÃ³n de la Ruta del Che,Viaje histÃ³rico siguiendo los pasos de Che Guevara en Bolivia.,2020-10-14,Carmen Garcia,388,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Carlos Martinez,362,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Carmen Morales,365,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Laura Navarro,368,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Laura Castro,371,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Angela Hernandez,374,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Isabel Rodriguez,377,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Miguel Garcia,380,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Jorge Martinez,383,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Laura Morales,386,Cultural
+38,"Tour por Sucre, la capital constitucional","Visita a la ciudad de Sucre, conocida por su rica historia y arquitectura colonial.",2021-12-30,Angela Ramirez,389,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Ana Romero,363,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Luis Romero,366,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Jorge Perez,369,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Laura Rojas,372,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Juan Mendoza,375,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Lucia Gonzalez,378,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Maria Suarez,381,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Jose Romero,384,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Isabel Martinez,387,Cultural
+39,ExcursiÃ³n a las Misiones JesuÃ­ticas de Chiquitos,"ExploraciÃ³n de las misiones jesuÃ­ticas, declaradas Patrimonio de la Humanidad.",2023-05-07,Lucia Ortega,390,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Andres Rodriguez,391,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Elena Sanchez,394,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,David Perez,397,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Laura Garcia,400,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Jose Lopez,403,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Miguel Sanchez,406,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Roberto Lopez,409,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Ana Hernandez,412,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,David Ortega,415,Cultural
+40,Visita al Parque Nacional Noel Kempff Mercado,ExcursiÃ³n al parque nacional conocido por sus impresionantes paisajes y biodiversidad.,2022-08-23,Lucia Reyes,418,Cultural
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Maria Lopez,392,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Carlos Garcia,395,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Andres Fernandez,398,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Miguel Mendoza,401,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Isabel Gonzalez,404,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Isabel Suarez,407,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Miguel Vargas,410,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Angela Martinez,413,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Carmen Hernandez,416,AcadÃ©mica
+41,Feria de Empresas y PasantÃ­as,Evento anual para conectar estudiantes con oportunidades de pasantÃ­as y empleos.,2023-03-15,Marta Hernandez,419,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Andres Hernandez,393,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Sofia Rodriguez,396,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Miguel Suarez,399,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Carmen Sanchez,402,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Elena Garcia,405,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Isabel Morales,408,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Ana Mendoza,411,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Roberto Perez,414,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Lucia Martinez,417,AcadÃ©mica
+42,Feria de AutomÃ³viles,ExposiciÃ³n de los Ãºltimos modelos de automÃ³viles y tecnologÃ­a automotriz.,2024-07-10,Ana Ortega,420,AcadÃ©mica
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Pedro Mendoza,421,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Sofia Lopez,424,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Luis Fernandez,427,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Sofia Fernandez,430,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Roberto Suarez,433,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Andres Rodriguez,436,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Sofia Lopez,439,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Lucia Fernandez,442,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Juan Morales,445,Voluntariado
+43,UPB Merge - Mentores y Aprendices,Programa de mentorÃ­a para conectar a estudiantes nuevos con estudiantes avanzados.,2022-09-20,Andres Romero,448,Voluntariado
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Pedro Castro,422,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Laura Gonzalez,425,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Lucia Romero,428,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Sofia Morales,431,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Carlos Romero,434,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Carlos Fernandez,437,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Luis Martinez,440,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Ana Perez,443,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Elena Lopez,446,Deportiva
+44,UPB Match - Competencias de Ping Pong,Torneo de ping pong abierto a todos los estudiantes.,2021-11-05,Angela Reyes,449,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Jose Garcia,423,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Maria Rojas,426,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Luis Rodriguez,429,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Maria Martinez,432,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Carlos Fernandez,435,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Andres Gonzalez,438,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Luis Gonzalez,441,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Marta Hernandez,444,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Lucia Navarro,447,Deportiva
+45,UPB Match - Competencias de BÃ¡squetbol,Torneo de bÃ¡squetbol entre equipos de estudiantes.,2020-06-15,Isabel Romero,450,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Juan Navarro,451,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Jorge Martinez,454,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Lucia Castro,457,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Andres Castro,460,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Maria Martinez,463,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Marta Reyes,466,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Lucia Rodriguez,469,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Sofia Hernandez,472,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Isabel Sanchez,475,Deportiva
+46,UPB Match - Competencias de Voleibol,Torneo de voleibol entre equipos de estudiantes.,2019-04-25,Jose Ortega,478,Deportiva
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Marta Ortega,452,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Luis Vargas,455,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Jose Sanchez,458,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Elena Rojas,461,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Marta Ramirez,464,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Isabel Rojas,467,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Miguel Romero,470,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Angela Reyes,473,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Miguel Romero,476,Cultural
+47,Festival FolklÃ³rico,CelebraciÃ³n de las tradiciones y danzas folklÃ³ricas bolivianas.,2022-10-12,Elena Garcia,479,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Laura Navarro,453,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Carmen Perez,456,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Carmen Navarro,459,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,David Sanchez,462,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Sofia Garcia,465,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Jose Morales,468,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Juan Rodriguez,471,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Pedro Fernandez,474,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Carmen Reyes,477,Cultural
+48,Festival de San ValentÃ­n,Evento para celebrar el dÃ­a de San ValentÃ­n con actividades y juegos.,2023-02-14,Roberto Martinez,480,Cultural
+49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Luis Perez,481,Cultural
+49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Marta Lopez,484,Cultural
+49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Ana Rojas,487,Cultural
+49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,David Perez,490,Cultural
+49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Sofia Reyes,493,Cultural
+49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,David Mendoza,496,Cultural
+49,Festival del DÃ­a de la Madre,CelebraciÃ³n especial para honrar a las madres.,2021-05-27,Maria Ramirez,499,Cultural
+50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Maria Rodriguez,482,Deportiva
+50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Ana Navarro,485,Deportiva
+50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Pedro Mendoza,488,Deportiva
+50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Elena Garcia,491,Deportiva
+50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Ana Gonzalez,494,Deportiva
+50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,Ana Castro,497,Deportiva
+50,Festival del DÃ­a del Padre,CelebraciÃ³n especial para honrar a los padres.,2020-06-17,David Perez,500,Deportiva
+51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Miguel Perez,10,Deportiva
+51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Laura Rojas,30,Deportiva
+51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Isabel Vargas,11,Deportiva
+51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Marta Sanchez,4,Deportiva
+51,Torneo de Ajedrez,Competencia de ajedrez para estudiantes de todos los niveles.,2023-05-10,Carlos Ortega,7,Deportiva
+52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Miguel Perez,10,Voluntariado
+52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Roberto Sanchez,2,Voluntariado
+52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Andres Mendoza,3,Voluntariado
+52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Juan Garcia,6,Voluntariado
+52,Caminata EcolÃ³gica,ExcursiÃ³n para conocer y preservar el medio ambiente.,2023-06-15,Maria Mendoza,5,Voluntariado
+53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,Miguel Perez,10,AcadÃ©mica
+53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,Ana Suarez,16,AcadÃ©mica
+53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,Roberto Mendoza,18,AcadÃ©mica
+53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,David Mendoza,21,AcadÃ©mica
+53,Hackathon UPB,MaratÃ³n de programaciÃ³n para resolver problemas reales.,2022-11-20,Marta Gonzalez,9,AcadÃ©mica
+54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Miguel Perez,10,Cultural
+54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Laura Ortega,30,Cultural
+54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Roberto Fernandez,43,Cultural
+54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Ana Navarro,44,Cultural
+54,Taller de FotografÃ­a,Aprender tÃ©cnicas bÃ¡sicas y avanzadas de fotografÃ­a.,2021-08-25,Lucia Sanchez,14,Cultural
+55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Miguel Perez,10,Cultural
+55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Jorge Morales,1,Cultural
+55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Andres Morales,12,Cultural
+55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Marta Perez,8,Cultural
+55,Concurso de Pintura,Competencia artÃ­stica para estudiantes con talento en pintura.,2021-12-10,Carmen Vargas,15,Cultural
+56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Miguel Perez,10,Cultural
+56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Carlos Ortega,7,Cultural
+56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Marta Gonzalez,9,Cultural
+56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Roberto Mendoza,18,Cultural
+56,Feria GastronÃ³mica,Evento para degustar y promover la gastronomÃ­a local.,2020-09-15,Andres Mendoza,3,Cultural
+57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,Miguel Perez,10,AcadÃ©mica
+57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,Maria Mendoza,5,AcadÃ©mica
+57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,Juan Garcia,6,AcadÃ©mica
+57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,Ana Suarez,16,AcadÃ©mica
+57,Seminario de InnovaciÃ³n,Conferencias y talleres sobre innovaciÃ³n tecnolÃ³gica.,2023-03-05,David Mendoza,21,AcadÃ©mica

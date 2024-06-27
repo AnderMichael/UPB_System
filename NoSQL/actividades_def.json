@@ -45,7 +45,8 @@
         "id_est": 28
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cultural"
   },
   {
     "id": 2,
@@ -93,7 +94,8 @@
         "id_est": 29
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cientifica"
   },
   {
     "id": 3,
@@ -141,7 +143,8 @@
         "id_est": 30
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Deportiva"
   },
   {
     "id": 4,
@@ -189,7 +192,8 @@
         "id_est": 58
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cultural"
   },
   {
     "id": 5,
@@ -237,7 +241,8 @@
         "id_est": 59
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cultural"
   },
   {
     "id": 6,
@@ -285,7 +290,8 @@
         "id_est": 60
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cultural"
   },
   {
     "id": 7,
@@ -333,7 +339,8 @@
         "id_est": 88
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cientifica"
   },
   {
     "id": 8,
@@ -381,7 +388,8 @@
         "id_est": 89
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cultural"
   },
   {
     "id": 9,
@@ -429,7 +437,8 @@
         "id_est": 90
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cultural"
   },
   {
     "id": 10,
@@ -477,9 +486,9 @@
         "id_est": 118
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cultural"
   },
-
   {
     "id": 11,
     "nombre": "Spirit Week",
@@ -526,7 +535,8 @@
         "id_est": 119
       }
     ],
-    "fecha": "2024-06-15"
+    "fecha": "2024-06-15",
+    "categoria": "Cultural"
   },
   {
     "id": 12,
@@ -574,7 +584,8 @@
         "id_est": 120
       }
     ],
-    "fecha": "2024-06-20"
+    "fecha": "2024-06-20",
+    "categoria": "Cultural"
   },
   {
     "id": 13,
@@ -622,7 +633,8 @@
         "id_est": 148
       }
     ],
-    "fecha": "2024-06-18"
+    "fecha": "2024-06-18",
+    "categoria": "Deportiva"
   },
   {
     "id": 14,
@@ -670,7 +682,8 @@
         "id_est": 149
       }
     ],
-    "fecha": "2024-06-25"
+    "fecha": "2024-06-25",
+    "categoria": "Deportiva"
   },
   {
     "id": 15,
@@ -718,7 +731,8 @@
         "id_est": 150
       }
     ],
-    "fecha": "2024-06-22"
+    "fecha": "2024-06-22",
+    "categoria": "Cultural"
   },
   {
     "id": 16,
@@ -766,7 +780,8 @@
         "id_est": 178
       }
     ],
-    "fecha": "2024-07-01"
+    "fecha": "2024-07-01",
+    "categoria": "Deportiva"
   },
   {
     "id": 17,
@@ -814,7 +829,8 @@
         "id_est": 179
       }
     ],
-    "fecha": "2024-06-27"
+    "fecha": "2024-06-27",
+    "categoria": "Cultural"
   },
   {
     "id": 18,
@@ -862,7 +878,8 @@
         "id_est": 180
       }
     ],
-    "fecha": "2024-06-30"
+    "fecha": "2024-06-30",
+    "categoria": "Cientifica"
   },
   {
     "id": 19,
@@ -910,7 +927,8 @@
         "id_est": 208
       }
     ],
-    "fecha": "2024-07-05"
+    "fecha": "2024-07-05",
+    "categoria": "Cultural"
   },
   {
     "id": 20,
@@ -958,7 +976,8 @@
         "id_est": 209
       }
     ],
-    "fecha": "2024-07-10"
+    "fecha": "2024-07-10",
+    "categoria": "Cultural"
   },
   {
     "id": 21,
@@ -1006,7 +1025,8 @@
         "id_est": 210
       }
     ],
-    "fecha": "2024-08-02"
+    "fecha": "2024-08-02",
+    "categoria": "Cultural"
   },
   {
     "id": 22,
@@ -1054,7 +1074,8 @@
         "id_est": 238
       }
     ],
-    "fecha": "2024-08-09"
+    "fecha": "2024-08-09",
+    "categoria": "Cultural"
   },
   {
     "id": 23,
@@ -1102,7 +1123,8 @@
         "id_est": 239
       }
     ],
-    "fecha": "2024-08-15"
+    "fecha": "2024-08-15",
+    "categoria": "Cultural"
   },
   {
     "id": 24,
@@ -1150,7 +1172,8 @@
         "id_est": 240
       }
     ],
-    "fecha": "2024-08-20"
+    "fecha": "2024-08-20",
+    "categoria": "Cultural"
   },
   {
     "id": 25,
@@ -1198,7 +1221,8 @@
         "id_est": 268
       }
     ],
-    "fecha": "2024-08-25"
+    "fecha": "2024-08-25",
+    "categoria": "Cultural"
   },
   {
     "id": 26,
@@ -1246,7 +1270,8 @@
         "id_est": 269
       }
     ],
-    "fecha": "2024-08-30"
+    "fecha": "2024-08-30",
+    "categoria": "Cientifica"
   },
   {
     "id": 27,
@@ -1294,7 +1319,8 @@
         "id_est": 270
       }
     ],
-    "fecha": "2024-09-05"
+    "fecha": "2024-09-05",
+    "categoria": "Cientifica"
   },
   {
     "id": 28,
@@ -1342,7 +1368,8 @@
         "id_est": 298
       }
     ],
-    "fecha": "2024-09-10"
+    "fecha": "2024-09-10",
+    "categoria": "Cientifica"
   },
   {
     "id": 29,
@@ -1390,7 +1417,8 @@
         "id_est": 299
       }
     ],
-    "fecha": "2024-09-15"
+    "fecha": "2024-09-15",
+    "categoria": "Cientifica"
   },
   {
     "id": 30,
@@ -1438,7 +1466,8 @@
         "id_est": 300
       }
     ],
-    "fecha": "2024-09-20"
+    "fecha": "2024-09-20",
+    "categoria": "Cientifica"
   },
   {
     "id": 31,
@@ -1486,7 +1515,8 @@
         "id_est": 328
       }
     ],
-    "fecha": "2019-08-15"
+    "fecha": "2019-08-15",
+    "categoria": "Cultural"
   },
   {
     "id": 32,
@@ -1534,7 +1564,8 @@
         "id_est": 329
       }
     ],
-    "fecha": "2020-03-22"
+    "fecha": "2020-03-22",
+    "categoria": "Cultural"
   },
   {
     "id": 33,
@@ -1582,7 +1613,8 @@
         "id_est": 330
       }
     ],
-    "fecha": "2018-11-10"
+    "fecha": "2018-11-10",
+    "categoria": "Cultural"
   },
   {
     "id": 34,
@@ -1630,7 +1662,8 @@
         "id_est": 358
       }
     ],
-    "fecha": "2021-06-05"
+    "fecha": "2021-06-05",
+    "categoria": "Cultural"
   },
   {
     "id": 35,
@@ -1678,7 +1711,8 @@
         "id_est": 359
       }
     ],
-    "fecha": "2022-01-18"
+    "fecha": "2022-01-18",
+    "categoria": "Cultural"
   },
   {
     "id": 36,
@@ -1714,19 +1748,20 @@
         "id_est": 351
       },
       {
-        "nombre_est": "David Fernandez",
+        "nombre_est": "Luis Castro",
         "id_est": 354
       },
       {
-        "nombre_est": "Miguel Mendoza",
+        "nombre_est": "Sofia Perez",
         "id_est": 357
       },
       {
-        "nombre_est": "Lucia Perez",
+        "nombre_est": "Elena Vargas",
         "id_est": 360
       }
     ],
-    "fecha": "2019-07-25"
+    "fecha": "2023-03-05",
+    "categoria": "Cultural"
   },
   {
     "id": 37,
@@ -1774,7 +1809,8 @@
         "id_est": 388
       }
     ],
-    "fecha": "2020-10-14"
+    "fecha": "2020-10-14",
+    "categoria": "Cultural"
   },
   {
     "id": 38,
@@ -1822,7 +1858,8 @@
         "id_est": 389
       }
     ],
-    "fecha": "2021-12-30"
+    "fecha": "2021-12-30",
+    "categoria": "Cultural"
   },
   {
     "id": 39,
@@ -1870,7 +1907,8 @@
         "id_est": 390
       }
     ],
-    "fecha": "2023-05-07"
+    "fecha": "2023-05-07",
+    "categoria": "Cultural"
   },
   {
     "id": 40,
@@ -1918,7 +1956,8 @@
         "id_est": 418
       }
     ],
-    "fecha": "2022-08-23"
+    "fecha": "2022-08-23",
+    "categoria": "Cultural"
   },
   {
     "id": 41,
@@ -1966,7 +2005,8 @@
         "id_est": 419
       }
     ],
-    "fecha": "2023-03-15"
+    "fecha": "2023-03-15",
+    "categoria": "Académica"
   },
   {
     "id": 42,
@@ -2014,7 +2054,8 @@
         "id_est": 420
       }
     ],
-    "fecha": "2024-07-10"
+    "fecha": "2024-07-10",
+    "categoria": "Académica"
   },
   {
     "id": 43,
@@ -2062,7 +2103,8 @@
         "id_est": 448
       }
     ],
-    "fecha": "2022-09-20"
+    "fecha": "2022-09-20",
+    "categoria": "Voluntariado"
   },
   {
     "id": 44,
@@ -2110,7 +2152,8 @@
         "id_est": 449
       }
     ],
-    "fecha": "2021-11-05"
+    "fecha": "2021-11-05",
+    "categoria": "Deportiva"
   },
   {
     "id": 45,
@@ -2158,7 +2201,8 @@
         "id_est": 450
       }
     ],
-    "fecha": "2020-06-15"
+    "fecha": "2020-06-15",
+    "categoria": "Deportiva"
   },
   {
     "id": 46,
@@ -2206,7 +2250,8 @@
         "id_est": 478
       }
     ],
-    "fecha": "2019-04-25"
+    "fecha": "2019-04-25",
+    "categoria": "Deportiva"
   },
   {
     "id": 47,
@@ -2254,7 +2299,8 @@
         "id_est": 479
       }
     ],
-    "fecha": "2022-10-12"
+    "fecha": "2022-10-12",
+    "categoria": "Cultural"
   },
   {
     "id": 48,
@@ -2302,7 +2348,8 @@
         "id_est": 480
       }
     ],
-    "fecha": "2023-02-14"
+    "fecha": "2023-02-14",
+    "categoria": "Cultural"
   },
   {
     "id": 49,
@@ -2338,7 +2385,8 @@
         "id_est": 499
       }
     ],
-    "fecha": "2021-05-27"
+    "fecha": "2021-05-27",
+    "categoria": "Cultural"
   },
   {
     "id": 50,
@@ -2374,7 +2422,8 @@
         "id_est": 500
       }
     ],
-    "fecha": "2020-06-17"
+    "fecha": "2020-06-17",
+    "categoria": "Deportiva"
   },
   {
     "id": 51,
@@ -2402,7 +2451,8 @@
         "id_est": 7
       }
     ],
-    "fecha": "2023-05-10"
+    "fecha": "2023-05-10",
+    "categoria": "Deportiva"
   },
   {
     "id": 52,
@@ -2430,7 +2480,8 @@
         "id_est": 5
       }
     ],
-    "fecha": "2023-06-15"
+    "fecha": "2023-06-15",
+    "categoria": "Voluntariado"
   },
   {
     "id": 53,
@@ -2458,7 +2509,8 @@
         "id_est": 9
       }
     ],
-    "fecha": "2022-11-20"
+    "fecha": "2022-11-20",
+    "categoria": "Académica"
   },
   {
     "id": 54,
@@ -2486,7 +2538,8 @@
         "id_est": 14
       }
     ],
-    "fecha": "2021-08-25"
+    "fecha": "2021-08-25",
+    "categoria": "Cultural"
   },
   {
     "id": 55,
@@ -2514,7 +2567,8 @@
         "id_est": 15
       }
     ],
-    "fecha": "2021-12-10"
+    "fecha": "2021-12-10",
+    "categoria": "Cultural"
   },
   {
     "id": 56,
@@ -2542,7 +2596,8 @@
         "id_est": 3
       }
     ],
-    "fecha": "2020-09-15"
+    "fecha": "2020-09-15",
+    "categoria": "Cultural"
   },
   {
     "id": 57,
@@ -2570,6 +2625,7 @@
         "id_est": 21
       }
     ],
-    "fecha": "2023-03-05"
+    "fecha": "2023-03-05",
+    "categoria": "Académica"
   }
 ]
