@@ -17,7 +17,6 @@ estudiantes = []
 for index, row in data.iterrows():
     estudiante = {
         "id_est": row["id"],
-        "nombre": f"{row['nombre']} {row['apellido']}",
         "id_prof": row["profesor_id"],
         "id_mat": row["materia"]
     }
@@ -39,12 +38,9 @@ def generar_encuestas(num_encuestas):
         estudiante = random.choice(estudiantes)
         encuesta = {
             "_id": i,
-            "estudiante": {
-                "nombre": estudiante["nombre"],
-                "id_est": estudiante["id_est"]
-            },
-            "id_profesor": estudiante["id_prof"],  # Asignar profesor_id aleatorio (1 a 10)
-            "id_materia": estudiante["id_mat"],  # Asignar id_materia aleatorio (101 a 110)
+            "id_est": estudiante["id_est"],
+            "id_profesor": estudiante["id_prof"], 
+            "id_materia": estudiante["id_mat"], 
             "preguntas": [],
             "fecha": (datetime.now() - timedelta(days=random.randint(0, 1825))).strftime("%Y-%m-%d")
         }
