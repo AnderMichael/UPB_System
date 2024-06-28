@@ -62,3 +62,40 @@ docker exec -it mysql-scz bash
 mysql -uroot -p
 upbsczadmin
 ```
+
+```js
+use admin;
+
+db.createUser({
+  user: "Estudiante",
+  pwd: "password_estudiante",
+  roles: [
+    { role: "read", db: "upb" }
+  ]
+})
+
+db.createUser({
+  user: "Profesor",
+  pwd: "password_profesor",
+  roles: [
+    { role: "read", db: "upb" }
+  ]
+})
+
+db.createUser({
+  user: "DAAE",
+  pwd: "password_daae",
+  roles: [
+    { role: "dbAdmin", db: "upb" }
+  ]
+})
+
+db.createUser({
+  user: "Sistemas",
+  pwd: "password_sistemas",
+  roles: [
+    { role: "readWrite", db: "upb" }
+  ]
+})
+
+```
