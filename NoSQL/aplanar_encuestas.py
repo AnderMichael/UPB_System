@@ -12,8 +12,7 @@ encuestas_aplanadas = []
 for encuesta in encuestas:
     encuesta_base = {
         "encuesta_id": encuesta["_id"],
-        "estudiante_id": encuesta["estudiante"]["id_est"],
-        "estudiante_nombre": encuesta["estudiante"]["nombre"],
+        "estudiante_id": encuesta["id_est"],
         "id_profesor": encuesta["id_profesor"],
         "id_materia": encuesta["id_materia"],
         "fecha": encuesta["fecha"]
