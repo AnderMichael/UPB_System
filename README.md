@@ -62,3 +62,21 @@ docker exec -it mysql-scz bash
 mysql -uroot -p
 upbsczadmin
 ```
+
+## Para agregar los datos al MongoDB
+```bash
+cd mongo
+
+# Perfil Estudiantes
+docker exec -it mongo-service mongoimport --authenticationDatabase admin --username root --password rootpassword --db upb --collection perfil_estudiantes --file /mongo-data/perfil_estudiantes.json --jsonArray
+
+# Actividades Extracurriculares
+docker exec -it mongo-service mongoimport --authenticationDatabase admin --username root --password rootpassword --db upb --collection actividades_extra --file /mongo-data/actividades.json --jsonArray
+
+# Encuestas
+docker exec -it mongo-service mongoimport --authenticationDatabase admin --username root --password rootpassword --db upb --collection encuestas --file /mongo-data/encuestas.json --jsonArray
+
+# Preguntas
+docker exec -it mongo-service mongoimport --authenticationDatabase admin --username root --password rootpassword --db upb --collection preguntas --file /mongo-data/preguntas.json --jsonArray
+
+```

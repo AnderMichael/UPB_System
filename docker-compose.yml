@@ -11,9 +11,11 @@ services:
       MYSQL_USER: replication_user
       MYSQL_PASSWORD: super_secure_replication_password
     ports:
-      - "3310:3306"
+      - 3310:3306
     networks:
       - upbnetwork
+    volumes:
+      - ./mysql/dump_upb.sql:/docker-entrypoint-initdb.d/dump_upb.sql
 
   mysql-lpz:
     image: mysql:8.0
@@ -27,7 +29,7 @@ services:
       MYSQL_USER: replication_user
       MYSQL_PASSWORD: super_secure_replication_password
     ports:
-      - "3307:3306"
+      - 3307:3306
     networks:
       - upbnetwork
 
@@ -43,7 +45,7 @@ services:
       MYSQL_USER: replication_user
       MYSQL_PASSWORD: super_secure_replication_password
     ports:
-      - "3308:3306"
+      - 3308:3306
     networks:
       - upbnetwork
 
@@ -59,21 +61,26 @@ services:
       MYSQL_USER: replication_user
       MYSQL_PASSWORD: super_secure_replication_password
     ports:
-      - "3309:3306"
+      - 3309:3306
     networks:
       - upbnetwork
 
-  mongo:
-    image: mongo:latest
-    container_name: mongo
+  mongo-service:
+    build:
+      context: ./mongo
+      dockerfile: Dockerfile
+    container_name: mongo-service
     restart: always
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: rootpassword
+      MONGO_INITDB_DATABASE: upb
     ports:
-      - "27017:27017"
+      - 27017:27017
     volumes:
-      - mongo_data:/data/db
+      - ./mongo/mongo-data:/mongo-data
+      - ./mongo/config/mongod.conf:/etc/mongod.conf
+      - ./mongo/config/init_mongo.js:/docker-entrypoint-initdb.d/init_mongo.js
     networks:
       - upbnetwork
 

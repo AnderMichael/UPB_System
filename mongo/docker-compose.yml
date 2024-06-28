@@ -1,0 +1,19 @@
+version: '3.1'
+
+services:
+  mongo-service:
+      image: mongo:latest
+      container_name: mongo-service
+      restart: always
+      environment:
+        MONGO_INITDB_ROOT_USERNAME: root
+        MONGO_INITDB_ROOT_PASSWORD: rootpassword
+        MONGO_INITDB_DATABASE: upb
+      ports:
+        - 27017:27017
+      volumes:
+        - ./mongo-data:/mongo-data
+        - ./config/mongod.conf:/etc/mongod.conf
+        - ./config/init_mongo.js:/docker-entrypoint-initdb.d/init_mongo.js
+      networks:
+        - upbnetwork
