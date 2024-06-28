@@ -3,10 +3,7 @@ use upb;
 // Insertar un nuevo elemento en la colección
 db.encuestas.insertOne({
     "_id": 200,
-    "estudiante": {
-        "nombre": "Laura Ortega",
-        "id_est": 30
-    },
+    "id_est": 30,
     "id_profesor": 410,
     "id_materia": 31,
     "preguntas": [
@@ -35,17 +32,23 @@ db.encuestas.insertOne({
 // Consultar por las encuestas
 db.encuestas.find();
 
-
 // Eliminar una encuesta
 db.encuestas.deleteOne({ "_id": 200 });
 
 //Encuestas por profesor
 db.encuestas.aggregate([
     { $group: { _id: {id_profesor:"$id_profesor"}, count: { $sum: 1 } } },
-    { $sort: { count: -1 } }
+    { $sort: { count: -1 } },
+    {
+       $project: {
+                _id: 0,
+                id_profesor: "$_id.id_profesor",
+                count: 1
+       }
+    }
 ]);
 
-// Obtener comenatrios -> Materia - Profesor
+// Obtener comentarios -> Materia - Profesor
 db.encuestas.aggregate([
     { $unwind: "$preguntas" },
     {
@@ -126,7 +129,7 @@ db.encuestas.aggregate([
     { $sort: { id_pregunta: 1 } }
 ]);
 
-// Evaluaciones generales para cada profesor ->
+// Evaluaciones generales para cada profesor
 db.encuestas.aggregate([
     { $unwind: "$preguntas" },
     {
@@ -175,3 +178,80 @@ db.encuestas.aggregate([
         }
     }
 ]);
+
+// Evaluaciones generales para cada materia
+db.encuestas.aggregate([
+    { $unwind: "$preguntas" },
+    {
+        $match: {
+            "preguntas.opciones": { $ne: [] },
+            "preguntas.id": { $gte: 38, $lte: 42 }
+        }
+    },
+    {
+        $group: {
+            _id: "$id_materia",
+            promedio_respuestas: { $avg: "$preguntas.respuesta" }
+        }
+    },
+    {
+        $project: {
+            _id: 0,
+            id_materia: "$_id",
+            promedio_respuestas: { $multiply: ["$promedio_respuestas", 25] }
+        }
+    },
+    { $sort: { promedio_respuestas: -1 } }
+]);
+
+// Evaluación general para una materia específica
+db.encuestas.aggregate([
+    { $unwind: "$preguntas" },
+    {
+        $match: {
+            "preguntas.opciones": { $ne: [] },
+            "preguntas.id": { $gte: 38, $lte: 42 },
+            "id_materia": 26
+        }
+    },
+    {
+        $group: {
+            _id: "$id_materia",
+            promedio_respuestas: { $avg: "$preguntas.respuesta" }
+        }
+    },
+    {
+        $project: {
+            _id: 0,
+            id_materia: "$_id",
+            promedio_respuestas: { $multiply: ["$promedio_respuestas", 25] }
+        }
+    }
+]);
+
+
+// Verificacion de respuestas únicas de un estudiante por materia y profesor
+db.encuestas.aggregate([
+    {
+        $group: {
+            _id: { id_est: "$id_est", id_profesor: "$id_profesor", id_materia: "$id_materia" },
+            count: { $sum: 1 },
+            encuestas: { $push: "$$ROOT" }
+        }
+    },
+    { $sort: { count: -1 } },
+    {
+        $project: {
+            _id: 0,
+            id_est: "$_id.id_est",
+            id_profesor: "$_id.id_profesor",
+            id_materia: "$_id.id_materia",
+            count: 1,
+            encuestas: 1,
+            status: {
+                $cond: { if: { $eq: ["$count", 1] }, then: "normal", else: "anomalía" }
+            }
+        }
+    },
+]);
+
